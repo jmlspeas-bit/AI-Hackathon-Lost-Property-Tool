@@ -1,0 +1,41 @@
+route,mode,route_name,end_a,end_b,stations,depot,shares_buses_with,notes
+Route 1,Bus,Northside Crosstown,Northgate Station,Lakeview Station,,North Depot,,
+Route 2,Bus,Main Street,Northgate Station,Central Station,,North Depot,,
+Route 3,Bus,Hillcrest Loop,Hillcrest Station,Hillcrest Station,,North Depot,Route 9,"Buses run Route 3 until about 2 p.m. on weekdays, then switch to Route 9 for the rest of the day."
+Route 4,Bus,Oak Avenue,University Station,Westlake Station,,North Depot,,
+Route 5,Bus,Elm Street,Civic Center Station,North Hills,,North Depot,,
+Route 6,Bus,Jefferson Boulevard,Central Station,Maple Heights,,North Depot,,
+Route 7,Bus,Medical Center Shuttle,Medical Center Station,Veterans Hospital,,North Depot,,
+Route 8,Bus,College Avenue,University Station,Northgate Station,,North Depot,,
+Route 9,Bus,Northwest Express,Central Station,Pine Ridge Park and Ride,,North Depot,Route 3,Weekday afternoon and evening buses on this route start the day on Route 3.
+Route 10,Bus,Cedar Road,Hillcrest Station,Fairgrounds Station,,North Depot,,
+Route 11,Bus,Lincoln Avenue,Civic Center Station,Briarwood Mall,,North Depot,,
+Route 12,Bus,Union Street,Central Station,University Station,,North Depot,,
+Route 13,Bus,Southside Crosstown,Southpark Station,Westlake Station,,South Depot,,
+Route 14,Bus,Harbor Road,Central Station,Harbor Point,,South Depot,Route 22,"Buses run Route 14 until about 2 p.m. on weekdays, then switch to Route 22 for the rest of the day."
+Route 15,Bus,Washington Street,Market Square Station,Southgate,,South Depot,,
+Route 16,Bus,Riverside Drive,Riverside Station,Central Station,,South Depot,,
+Route 17,Bus,Fairview Avenue,Fairview Station,Market Square Station,,South Depot,Route 24,"Buses run Route 17 until about 2 p.m. on weekdays, then switch to Route 24 for the rest of the day."
+Route 18,Bus,Industrial Parkway,South Terminal Station,Commerce Park,,South Depot,,
+Route 19,Bus,Stadium Connector,Stadium Station,Southpark Station,,South Depot,,
+Route 20,Bus,Grant Avenue,Central Station,Willow Creek,,South Depot,,
+Route 21,Bus,Bay Street,Riverside Station,Harbor Point,,South Depot,,
+Route 22,Bus,South Express,Central Station,South Terminal Station,,South Depot,Route 14,Weekday afternoon and evening buses on this route start the day on Route 14.
+Route 23,Bus,Park Avenue,Market Square Station,Southpark Station,,South Depot,,
+Route 24,Bus,Cypress Road,Fairview Station,Westlake Station,,South Depot,Route 17,Weekday afternoon and evening buses on this route start the day on Route 17.
+Route 25,Bus,Monroe Street,Civic Center Station,Fairview Station,,South Depot,,
+Route 26,Bus,Eastside Crosstown,Eastgate Station,Medical Center Station,,East Depot,,
+Route 27,Bus,Madison Avenue,Arts District Station,Eastgate Station,,East Depot,,
+Route 28,Bus,Mill Creek Road,Mill Creek Station,Central Station,,East Depot,Route 35,"Buses run Route 28 until about 2 p.m. on weekdays, then switch to Route 35 for the rest of the day."
+Route 29,Bus,Lakeview Drive,Lakeview Station,Arts District Station,,East Depot,,
+Route 30,Bus,Franklin Street,Central Station,East Terminal Station,,East Depot,Route 37,"Buses run Route 30 until about 2 p.m. on weekdays, then switch to Route 37 for the rest of the day."
+Route 31,Bus,Highland Avenue,Eastgate Station,Highland Golf Course,,East Depot,,
+Route 32,Bus,Spring Street,Arts District Station,Spring Valley,,East Depot,,
+Route 33,Bus,Kingsley Road,Mill Creek Station,Kingsley Pet Hospital,,East Depot,,
+Route 34,Bus,Garden Avenue,Lakeview Station,Botanical Garden,,East Depot,,
+Route 35,Bus,East Express,Central Station,Lakeview Park and Ride,,East Depot,Route 28,Weekday afternoon and evening buses on this route start the day on Route 28.
+Route 36,Bus,Sunset Boulevard,East Terminal Station,Sunset Plaza,,East Depot,,
+Route 37,Bus,Wilson Road,Mill Creek Station,East Terminal Station,,East Depot,Route 30,Weekday afternoon and evening buses on this route start the day on Route 30.
+Route 38,Bus,Airport Connector,Eastgate Station,Airport Station,,East Depot,,
+Red Line,Light rail,Red Line,Northgate Station,South Terminal Station,Northgate | Hillcrest | University | Medical Center | Civic Center | Central Station | Market Square | Riverside | Southpark | Fairview | South Terminal,Rail Yard,,Trains are swept for lost items at Rail Yard each night.
+Blue Line,Light rail,Blue Line,Airport Station,East Terminal Station,Airport | Cargo Road | Westlake | Fairgrounds | Stadium | Central Station | Arts District | Eastgate | Mill Creek | Lakeview | East Terminal,Rail Yard,,Trains are swept for lost items at Rail Yard each night.
