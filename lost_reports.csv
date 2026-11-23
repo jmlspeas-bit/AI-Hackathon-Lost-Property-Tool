@@ -1,0 +1,632 @@
+report_id,date_submitted,rider_name,email,phone,date_lost,time_lost,route_or_line,item_type,description,staff_notes
+LR-88001,2026-08-30,Jose Edwards,jose_edwards@inbox.example.net,(512) 555-0114,2026-08-30,not sure,Route 35,Bag,Black Trader Joe's tote bag with sunscreen inside,"Searched 8/30, no match."
+LR-88002,2026-08-30,Tiffany Cox,tiffanycox@example.com,(414) 555-0170,2026-08-25,not sure,blue line train,Other,"Black sunglasses, in soft pouch. thanks",No match. Rider emailed.
+LR-88003,2026-08-30,Linda Singh,lindasingh@mail.example,(615) 555-0118,2026-08-25,,the 16,Other,Small succulent,
+LR-88004,2026-08-30,Yolanda Patel,yolanda_patel72@example.com,(801) 555-0121,2026-08-29,,14 bus,Other,Silver contigo travel mug,
+LR-88005,2026-08-30,Carlos Rivera,carlosrivera@inbox.example.net,(608) 555-0192,2026-08-25,morning,red line,Electronics,Airpods case one earbud missing,"Searched 8/30, no match."
+LR-88006,2026-08-30,Anthony Phillips,anthony.phillips47@example.com,(503) 555-0134,2026-08-28,evening,3 bus,Electronics,Wireless earbuds in charging case,No match. Rider emailed.
+LR-88007,2026-08-30,Tonya Phillips,tonya_phillips74@mail.example,(414) 555-0158,2026-08-29,evening,route 38 bus,Electronics,"Apple AirPods case, white",
+LR-88008,2026-08-30,Bonnie Torres,bonnie.torres32@inbox.example.net,(913) 555-0109,2026-08-29,evening,3,Clothing,Dark grey baseball cap. adjustable. left it on my seat,No match. Rider emailed.
+LR-88009,2026-08-30,Paul Cox,paulcox83@example.org,(704) 555-0184,2026-08-28,,Route 7,Keys,Subaru keys - carabiner,No match. Rider emailed.
+LR-88010,2026-08-30,Crystal King,crystalking@example.org,(216) 555-0191,2026-08-27,late night,route 2 bus,Bag,Cream Trader Joe's tote bag with book inside. please help,"Searched 8/30, no match."
+LR-88011,2026-08-30,Anthony Cook,anthonycook77@example.com,(614) 555-0113,2026-08-30,late night,the 7,Clothing,"Tan sun hat, wide brim","Searched 8/30, no match."
+LR-88012,2026-08-30,Gina Reed,ginareed@mail.example,(414) 555-0148,2026-08-28,rush hour,19 bus,Other,Blue PackIt lunch box,No match. Rider emailed.
+LR-88013,2026-08-30,Tonya Allen,tonya_allen@example.com,(312) 555-0175,2026-08-29,late night,not sure which bus,Bag,"Red shopping bag, plastic","Searched 8/30, no match."
+LR-88014,2026-08-30,Trevor Adams,trevor.adams54@example.org,(614) 555-0185,2026-08-30,morning,a bus downtown,Other,Silver watch. Reward offered,
+LR-88015,2026-08-30,Wes Thomas,wes_thomas@mail.example,(503) 555-0144,2026-08-30,around 5:30pm,"bus or train, not sure",Electronics,"Beats wireless earbuds, black",
+LR-88016,2026-08-30,Jill Rivera,jill_rivera@example.org,(402) 555-0197,2026-08-29,morning,Red line train,Phone,"Apple phone, white, black case",
+LR-88017,2026-08-30,Becky Morgan,becky_morgan@example.org,(503) 555-0162,2026-08-29,around noon,route 9 bus,Other,Orange basketball,"Searched 8/30, no match."
+LR-88018,2026-08-30,Jessica Edwards,jessica.edwards@inbox.example.net,(720) 555-0165,2026-08-29,evening,the 27,Bag,"Navy backpack, water bottle pocket",No match. Rider emailed.
+LR-88019,2026-08-30,Carlos Novak,carlos.novak24@example.org,(720) 555-0175,2026-08-29,around 8am,31 bus,Wallet/Purse,"Purse, red, crossbody","Searched 8/30, no match."
+LR-88020,2026-08-30,Vince Torres,vince_torres23@inbox.example.net,(614) 555-0147,2026-08-25,morning,Red line train,Clothing,"Black Uniqlo jacket, denim","Searched 8/30, no match."
+LR-88021,2026-08-31,Tonya Adams,tonya.adams@mail.example,(312) 555-0103,2026-08-28,morning,the 7,Other,Water bottle with straw lid,
+LR-88022,2026-08-31,Ashley Harris,ashley_harris@inbox.example.net,(608) 555-0188,2026-08-29,rush hour,route 20 bus,Electronics,"Apple AirPods case, white","Searched 8/31, no match."
+LR-88023,2026-08-31,Keisha Carter,keisha_carter@example.org,(913) 555-0119,2026-08-30,evening,the 10,Electronics,Over-ear headphones in carry case,No match. Rider emailed.
+LR-88024,2026-08-31,Corey Davis,corey.davis@example.com,(414) 555-0119,2026-08-28,late night,red line,Electronics,White anker phone charger,No match. Rider emailed.
+LR-88025,2026-08-31,Wendy Martinez,wendymartinez19@example.org,(614) 555-0177,2026-08-31,rush hour,Red line train,Bag,"Gray backpack, front zip pocket","Searched 8/31, no match."
+LR-88026,2026-08-31,Dale Perez,daleperez@inbox.example.net,(312) 555-0161,2026-08-26,afternoon,30 bus,Keys,Set of keys (university lanyard),
+LR-88027,2026-08-31,Glen Campbell,glen_campbell@example.com,(405) 555-0102,2026-08-30,late night,the 17,Clothing,L.l.bean flannel shirt in blue,
+LR-88028,2026-08-31,Keisha Thomas,keisha_thomas10@example.com,(801) 555-0144,2026-08-31,not sure,Route 12,Phone,My white iPhone with a lock screen photo of a child,No match. Rider emailed.
+LR-88029,2026-08-31,Tyler Kim,tyler.kim@example.com,(704) 555-0195,2026-08-26,late night,Red Line,Other,"Black sunglasses, no case","Searched 8/31, no match."
+LR-88030,2026-08-31,Rosa Dunbar,rosadunbar@mail.example,(414) 555-0179,2026-08-31,around 8am,route 32 bus,Other,Blue dog,No match. Rider emailed.
+LR-88031,2026-08-31,Shawn Edwards,shawnedwards96@example.com,(801) 555-0146,2026-08-28,,Red Line,ID/Cards,My transit pass card,"Searched 8/31, no match."
+LR-88032,2026-08-31,Gabriel Young,gabriel.young@mail.example,(470) 555-0119,2026-08-29,around noon,route 6 bus,Electronics,Kindle e-reader fabric cover. Reward offered,"Searched 8/31, no match."
+LR-88033,2026-08-31,Noah Ward,noah.ward31@mail.example,(913) 555-0140,2026-08-31,afternoon,Route 31,Other,My sunglasses in brown,"Searched 8/31, no match."
+LR-88034,2026-08-31,Tamika Lopez,tamika_lopez@example.com,(312) 555-0131,2026-08-31,evening,route 20 bus,Other,Blue unicorn,
+LR-88035,2026-08-31,Noah Ward,noahward@example.org,(317) 555-0177,2026-08-31,around 8am,21 bus,Electronics,AirPods case one earbud missing,
+LR-88036,2026-08-31,Omar Ward,omar_ward6@mail.example,(608) 555-0120,2026-08-31,rush hour,36,Other,Notebook - handwritten notes,
+LR-88037,2026-08-31,Kim Adams,kim_adams@mail.example,(512) 555-0164,2026-08-30,rush hour,15,Phone,My black flip phone with a worn,"Searched 8/31, no match."
+LR-88038,2026-08-31,Tamika Cox,tamikacox48@mail.example,(470) 555-0102,2026-08-28,late night,light rail,Other,Blue unicorn,
+LR-88039,2026-08-31,Victor Bailey,victorbailey@mail.example,(470) 555-0148,2026-08-28,late night,27,Keys,Set of keys (grocery loyalty tag),No match. Rider emailed.
+LR-88040,2026-09-01,Lauren Clark,lauren.clark@example.com,(919) 555-0102,2026-08-31,not sure,the 3,Phone,"Samsung Galaxy phone pop socket on back, black","Searched 9/1, no match."
+LR-88041,2026-09-01,Raj Dunbar,raj_dunbar@mail.example,(816) 555-0176,2026-08-29,rush hour,route 29 bus,Other,"Clear prescription glasses, wire frames","Searched 9/1, no match."
+LR-88042,2026-09-01,Nadine Nelson,nadine.nelson98@mail.example,(801) 555-0181,2026-09-01,around 5:30pm,the 35,Other,My prescription glasses in clear,"Searched 9/1, no match."
+LR-88043,2026-09-01,Tamika Fischer,tamika.fischer75@example.com,(702) 555-0165,2026-08-27,not sure,Central Station,Other,Purple hydro flask water bottle,No match. Rider emailed.
+LR-88044,2026-09-01,Lorraine Reed,lorraine_reed35@mail.example,(503) 555-0181,2026-09-01,evening,9 bus,Electronics,"Apple airpods case, white. Really need this back","Searched 9/1, no match."
+LR-88045,2026-09-01,Yolanda Smith,yolanda.smith@mail.example,(512) 555-0140,2026-08-27,around noon,Route 15,Clothing,"Green under armour hoodie, pullover","Searched 9/1, no match."
+LR-88046,2026-09-01,Wendy Allen,wendy.allen@mail.example,(614) 555-0158,2026-08-31,around 5:30pm,Route 17,Bag,"My tote bag!! it's navy, has folder of papers","Searched 9/1, no match."
+LR-88047,2026-09-01,Andre King,andre.king@mail.example,(801) 555-0136,2026-08-30,around noon,red line,Keys,"Keys on a ring, Eiffel Tower keychain","Searched 9/1, no match."
+LR-88048,2026-09-01,Raj Rivera,raj.rivera@mail.example,(816) 555-0165,2026-09-01,late night,6 bus,Other,Pink nalgene water bottle,"Searched 9/1, no match."
+LR-88049,2026-09-01,Derek Cook,derek.cook@example.org,(720) 555-0154,2026-08-29,,Route 2,Bag,"My gym bag!! it's dark blue, has gym clothes",No match. Rider emailed.
+LR-88050,2026-09-01,Michael Stewart,michael.stewart@example.com,(608) 555-0179,2026-08-31,around 8am,Red Line,Electronics,AirPods case engraved,No match. Rider emailed.
+LR-88051,2026-09-01,Vince Kowalski,vincekowalski@mail.example,(801) 555-0195,2026-08-31,morning,Blue Line,Phone,My black iPhone with a glitter case,No match. Rider emailed.
+LR-88052,2026-09-01,Tonya Ward,tonyaward17@example.com,(608) 555-0194,2026-09-01,around noon,light rail,Keys,Keys - 5 keys,
+LR-88053,2026-09-01,Lauren Cooper,lauren.cooper@example.org,(608) 555-0171,2026-08-30,around noon,not sure which bus,Keys,Set of keys (5 keys),"Searched 9/1, no match."
+LR-88054,2026-09-01,Robert Johnson,robertjohnson@example.com,(913) 555-0192,2026-08-31,,Route 30,Wallet/Purse,Tan Coach purse with my license. thanks,
+LR-88055,2026-09-01,Wendy Ito,wendy_ito48@example.com,(702) 555-0194,2026-08-27,evening,33,Bag,"Blue backpack, water bottle pocket","Searched 9/1, no match."
+LR-88056,2026-09-01,Vince Campbell,vince.campbell@mail.example,(402) 555-0188,2026-08-31,not sure,a bus downtown,Electronics,"Apple AirPods case, white!!","Searched 9/1, no match."
+LR-88057,2026-09-01,Paul Davis,paul.davis29@inbox.example.net,(919) 555-0125,2026-09-01,evening,Route 8 bus,Electronics,"My son's school tablet, Samsung, in a blue cover that folds. It has a sticker from the school district on it","Searched 9/1, no match."
+LR-88058,2026-09-01,Crystal Campbell,crystal.campbell@example.org,(704) 555-0175,2026-08-29,afternoon,light rail,Electronics,Wireless earbuds in charging case,"Searched 9/1, no match."
+LR-88059,2026-09-01,Hector Turner,hectorturner@example.com,(816) 555-0112,2026-08-30,evening,the 28,Bag,"Black backpack, laptop sleeve",No match. Rider emailed.
+LR-88060,2026-09-01,Trevor Mensah,trevor_mensah28@example.com,(402) 555-0138,2026-08-29,late night,not sure which bus,Other,"Clear prescription glasses, wire frames",
+LR-88061,2026-09-01,Erin Novak,erin_novak@inbox.example.net,(512) 555-0143,2026-08-31,around noon,Route 17,Other,Red Starbucks travel mug!!,
+LR-88062,2026-09-01,Victor Ward,victor_ward@example.com,(816) 555-0193,2026-09-01,around noon,the 27,Electronics,Wireless earbuds in charging case,No match. Rider emailed.
+LR-88063,2026-09-02,Hector Nguyen,hector.nguyen6@example.org,(470) 555-0157,2026-09-01,morning,the 35,Bag,"My backpack!! it's red, has pencil case",
+LR-88064,2026-09-02,Yolanda Morgan,yolandamorgan7@example.com,(414) 555-0143,2026-09-02,rush hour,the 11,Keys,"Key on a lanyard, work id badge holder (empty)",
+LR-88065,2026-09-02,Chad Richardson,chad_richardson25@example.com,(614) 555-0121,2026-09-01,around 5:30pm,the 4,Keys,Set of keys (house keys attached),No match. Rider emailed.
+LR-88066,2026-09-02,Tonya Wilson,tonya.wilson@mail.example,(919) 555-0109,2026-09-01,morning,route 2 bus,Keys,"Car key fob with keys, house keys attached",No match. Rider emailed.
+LR-88067,2026-09-02,Nadine Garcia,nadine.garcia@inbox.example.net,(614) 555-0136,2026-09-02,afternoon,route 2 bus,Electronics,"Beats over-ear headphones, black","Searched 9/2, no match."
+LR-88068,2026-09-02,Brianna Phillips,briannaphillips@example.org,(816) 555-0143,2026-08-30,around noon,light rail,Other,,
+LR-88069,2026-09-02,Michael Lewis,michaellewis42@example.org,(704) 555-0178,2026-09-01,around 8am,route 30 bus,Bag,"My gym bag!! it's grey, has water bottle","Searched 9/2, no match."
+LR-88070,2026-09-02,Nicole Dunbar,nicoledunbar13@inbox.example.net,(512) 555-0162,2026-09-01,late night,the 32,Keys,Set of keys (work id badge holder (empty)),
+LR-88071,2026-09-02,Lauren Robinson,laurenrobinson86@example.org,(216) 555-0140,2026-08-31,evening,blue line train,Other,My sunglasses in brown,"Searched 9/2, no match."
+LR-88072,2026-09-02,Paul Wilson,paul.wilson@inbox.example.net,(216) 555-0123,2026-09-01,,route 8 bus,Electronics,Wireless earbuds in charging case,
+LR-88073,2026-09-02,Erin Perez,erinperez@mail.example,(720) 555-0192,2026-08-30,evening,route 13 bus,Phone,"Apple phone, black, clear case",No match. Rider emailed.
+LR-88074,2026-09-02,Ana Haddad,ana_haddad@example.org,(702) 555-0185,2026-08-30,morning,blue line train,Electronics,Amazon fire tablet folio case,
+LR-88075,2026-09-02,Paul Edwards,pauledwards@mail.example,(216) 555-0104,2026-08-28,not sure,route 34 bus,Wallet/Purse,"Brown card holder, has my ID and cards",
+LR-88076,2026-09-02,Tiffany Fischer,tiffany_fischer@inbox.example.net,(608) 555-0184,2026-08-31,around 8am,Blue Line,Other,Water bottle with stickers,
+LR-88077,2026-09-02,Michael Kowalski,michaelkowalski@inbox.example.net,(816) 555-0148,2026-08-31,evening,7,Electronics,"Beats wireless earbuds, blue",
+LR-88078,2026-09-02,Ruben Nelson,rubennelson@inbox.example.net,(702) 555-0190,2026-09-01,,light rail,Other,Water bottle with stickers,No match. Rider emailed.
+LR-88079,2026-09-02,Tiffany Green,tiffany.green@example.org,(317) 555-0109,2026-09-02,evening,the 36,Other,My prescription glasses in gold,No match. Rider emailed.
+LR-88080,2026-09-02,Raj Martinez,rajmartinez@inbox.example.net,(317) 555-0104,2026-09-02,,13 bus,Phone,"IPhone cracked screen, silver","Searched 9/2, no match."
+LR-88081,2026-09-02,Carlos Parker,carlos_parker@example.org,(470) 555-0132,2026-09-02,around noon,Route 34,Bag,Green JanSport backpack with pencil case inside,"Searched 9/2, no match."
+LR-88082,2026-09-03,Omar Sanchez,omarsanchez91@example.com,(704) 555-0104,2026-09-03,not sure,Blue Line,Other,Walking cane - need it urgently,No match. Rider emailed.
+LR-88083,2026-09-03,Megan Phillips,megan_phillips@inbox.example.net,(913) 555-0187,2026-09-03,around 8am,Central Station,Keys,Set of keys (rubber duck keychain),
+LR-88084,2026-09-03,Wendy Cook,wendy.cook@inbox.example.net,(216) 555-0154,2026-09-02,afternoon,the 37,Electronics,"Apple airpods case, white",No match. Rider emailed.
+LR-88085,2026-09-03,Kim Davis,kim_davis@mail.example,(512) 555-0117,2026-09-03,around 5:30pm,Route 17,Other,Water bottle with straw lid,"Searched 9/3, no match."
+LR-88086,2026-09-03,Chad Phillips,chad.phillips60@example.org,(402) 555-0121,2026-09-02,around 8am,16 bus,Other,Dark grey umbrella. thanks,
+LR-88087,2026-09-03,Ruben Bell,rubenbell@mail.example,(919) 555-0194,2026-09-02,around 8am,33,Other,"Green umbrella, wooden handle",
+LR-88088,2026-09-03,Nicole Wilson,nicolewilson@example.com,(704) 555-0158,2026-09-02,around 8am,Route 23,Electronics,"Apple AirPods case, white",No match. Rider emailed.
+LR-88089,2026-09-03,Brenda Lewis,brenda.lewis89@example.com,(801) 555-0170,2026-09-03,evening,Route 20,Other,"baby car seat, graco, grey with teal. we got off in a rush","Searched 9/3, no match."
+LR-88090,2026-09-03,Wes Murphy,wes.murphy@example.com,(704) 555-0142,2026-09-03,around 5:30pm,the 22,Clothing,Adidas jacket in red,
+LR-88091,2026-09-03,Nadine Ward,nadine.ward@mail.example,(919) 555-0124,2026-09-01,not sure,1,Wallet/Purse,"Brown bifold wallet, has my id and cards",
+LR-88092,2026-09-03,Raj Novak,raj_novak@inbox.example.net,(615) 555-0104,2026-09-02,morning,Route 4,Other,"Green umbrella, broken spoke","Searched 9/3, no match."
+LR-88093,2026-09-03,Ana Rivera,ana.rivera@mail.example,(615) 555-0187,2026-09-02,morning,15,Electronics,Handheld fan neck fan,
+LR-88094,2026-09-03,Keisha Evans,keishaevans@mail.example,(402) 555-0106,2026-09-03,not sure,24,Clothing,"Black baseball cap, plain",
+LR-88095,2026-09-03,Rick Becker,rickbecker82@mail.example,(216) 555-0110,2026-09-03,late night,blue line train,Electronics,Handheld fan neck fan. please help,
+LR-88096,2026-09-03,Derek Murphy,derekmurphy@example.org,(816) 555-0108,2026-09-01,around noon,3,Other,A spiral,
+LR-88097,2026-09-03,Ahmed Nguyen,ahmed_nguyen@mail.example,(512) 555-0175,2026-09-02,around 8am,red line,ID/Cards,My transit pass card,No match. Rider emailed.
+LR-88098,2026-09-03,Ahmed Martinez,ahmed_martinez16@example.com,(512) 555-0112,2026-09-02,rush hour,red line,Electronics,"Bose over-ear headphones, pink",No match. Rider emailed.
+LR-88099,2026-09-04,Lauren Bailey,lauren.bailey@example.org,(913) 555-0158,2026-09-04,around 5:30pm,blue line train,Clothing,"Navy New Era baseball cap, plain",
+LR-88100,2026-09-04,Deb Perez,deb_perez82@example.org,(614) 555-0167,2026-09-04,morning,31 bus,Bag,"My backpack!! it's blue, has notebooks",No match. Rider emailed.
+LR-88101,2026-09-04,Rick Green,rick.green55@inbox.example.net,(614) 555-0100,2026-08-30,rush hour,light rail,Other,"Necklace, gold, chain","Searched 9/4, no match."
+LR-88102,2026-09-04,Chad Stewart,chadstewart@example.com,(913) 555-0178,2026-09-04,afternoon,24,Other,Dark grey Totes umbrella,
+LR-88103,2026-09-04,Jamal Bell,jamal_bell@example.org,(503) 555-0146,2026-09-04,morning,2,Clothing,"dark green rain jacket with a hood, Columbia, size M","Searched 9/4, no match."
+LR-88104,2026-09-04,Tiffany Becker,tiffany.becker@example.com,(503) 555-0184,2026-09-03,morning,route 22 bus,Other,Green umbrella,
+LR-88105,2026-09-04,Brian Richardson,brian.richardson@mail.example,(470) 555-0110,2026-09-04,morning,the 8,Keys,"Keys on a ring, bottle opener keychain","Searched 9/4, no match."
+LR-88106,2026-09-04,Ana Lewis,ana.lewis@mail.example,(216) 555-0105,2026-09-04,around 8am,the 25,Clothing,"Black baseball cap, adjustable",
+LR-88107,2026-09-04,Deb Howard,debhoward@example.com,(216) 555-0122,2026-09-02,evening,the 19,Clothing,"Black jacket, size l!!","Searched 9/4, no match."
+LR-88108,2026-09-04,Jose Reed,josereed@example.org,(615) 555-0127,2026-08-30,,2 bus,Clothing,Red baseball cap. plain. Left it on my seat. please help,
+LR-88109,2026-09-04,Patricia Phillips,patricia_phillips@example.com,(801) 555-0193,2026-09-04,rush hour,27 bus,Keys,Toyota keys - carabiner,"Searched 9/4, no match."
+LR-88110,2026-09-04,Paul Stewart,paul_stewart@example.com,(608) 555-0145,2026-08-30,around 5:30pm,Central Station,Wallet/Purse,"Purse, black, zip top",No match. Rider emailed.
+LR-88111,2026-09-04,Tamika White,tamikawhite@example.com,(317) 555-0135,2026-09-04,late night,24 bus,Keys,Honda keys - house keys attached,"Searched 9/4, no match."
+LR-88112,2026-09-04,Wendy Brown,wendybrown@example.com,(720) 555-0198,2026-09-04,around 5:30pm,route 25 bus,Clothing,Black hoodie. size XL. Left it on my seat. Reward offered,
+LR-88113,2026-09-04,Omar Howard,omarhoward87@inbox.example.net,(312) 555-0128,2026-09-04,around 8am,Route 23,Electronics,"Apple AirPods case, white",
+LR-88114,2026-09-04,Ana Edwards,anaedwards@example.org,(816) 555-0118,2026-08-30,around 5:30pm,route 31 bus,Other,Blue stanley water bottle,"Searched 9/4, no match."
+LR-88115,2026-09-04,Travis Williams,traviswilliams@mail.example,(919) 555-0179,2026-09-01,rush hour,route 15 bus,Phone,"IPhone clear case, purple",No match. Rider emailed.
+LR-88116,2026-09-04,Rodney Campbell,rodneycampbell@example.org,(608) 555-0154,2026-09-01,morning,4 bus,Other,White Hydro Flask water bottle,"Searched 9/4, no match."
+LR-88117,2026-09-04,Becky Walker,beckywalker@example.com,(503) 555-0119,2026-09-03,not sure,route 18 bus,Electronics,Anker phone charger with cable,No match. Rider emailed.
+LR-88118,2026-09-04,Wendy Smith,wendy_smith47@inbox.example.net,(405) 555-0180,2026-08-30,not sure,the 10,Bag,Beige tote bag with knitting inside,
+LR-88119,2026-09-04,Isaac Morris,isaac.morris@example.org,(816) 555-0154,2026-09-01,afternoon,13,Wallet/Purse,Beige Coach purse with my license,"Searched 9/4, no match."
+LR-88120,2026-09-04,Derek Fischer,derek.fischer74@mail.example,(614) 555-0101,2026-09-04,around 5:30pm,red line,Phone,"Samsung phone, green, pop socket on back","Searched 9/4, no match."
+LR-88121,2026-09-05,David Adams,david.adams@inbox.example.net,(816) 555-0145,2026-09-05,not sure,red line,Electronics,Black Belkin portable power bank. please help,"Searched 9/5, no match."
+LR-88122,2026-09-05,Ana Becker,ana_becker@mail.example,(512) 555-0154,2026-09-05,not sure,Route 8,Clothing,"White Nike baseball cap, team logo",
+LR-88123,2026-09-05,Hector Adams,hector_adams87@example.org,(720) 555-0110,2026-09-05,late night,Red Line,Keys,"Car key fob with keys, carabiner",
+LR-88124,2026-09-05,Heather Ward,heatherward@mail.example,(913) 555-0134,2026-09-03,around noon,2,Clothing,Sun hat in white,"Searched 9/5, no match."
+LR-88125,2026-09-05,Gabriel Mensah,gabriel_mensah53@example.com,(503) 555-0157,2026-08-31,,route 33 bus,Other,My kid's worn (grey),
+LR-88126,2026-09-05,Jennifer Anderson,jenniferanderson@example.com,(470) 555-0198,2026-09-05,,the 30,Wallet/Purse,"Brown bifold wallet, has my id and cards","Searched 9/5, no match."
+LR-88127,2026-09-05,Patricia Carter,patricia_carter82@example.com,(702) 555-0189,2026-09-04,around 8am,the 27,Phone,"Samsung Galaxy phone pop socket on back, blue. thanks",
+LR-88128,2026-09-05,Brian Martinez,brianmartinez@inbox.example.net,(216) 555-0132,2026-09-02,,Blue Line,Other,My sunglasses in black,
+LR-88129,2026-09-05,Wes Murphy,wes.murphy48@example.com,(470) 555-0112,2026-09-05,late night,"bus or train, not sure",Other,Wrapped gift,"Searched 9/5, no match."
+LR-88130,2026-09-05,Diego Brown,diego_brown13@inbox.example.net,(913) 555-0184,2026-09-04,late night,18 bus,Other,Book - Bible,
+LR-88131,2026-09-05,Lorraine Johnson,lorrainejohnson@example.org,(720) 555-0194,2026-09-05,around 8am,Red Line,Bag,"My tote bag!! it's dark blue, has knitting",
+LR-88132,2026-09-05,Jill Bell,jill.bell8@example.com,(317) 555-0122,2026-09-05,evening,Red line train,ID/Cards,My driver's license,No match. Rider emailed.
+LR-88133,2026-09-05,Ethan Roberts,ethan_roberts@example.org,(608) 555-0138,2026-09-05,morning,Blue Line,Clothing,Maroon hoodie. plain. Left it on my seat,
+LR-88134,2026-09-05,Carlos Mitchell,carlosmitchell@mail.example,(816) 555-0191,2026-09-02,afternoon,Route 25,Other,My sunglasses in black,"Searched 9/5, no match."
+LR-88135,2026-09-05,Tamika Richardson,tamika.richardson@mail.example,(704) 555-0177,2026-09-03,late night,the 11,Electronics,"Sony over-ear headphones, pink",
+LR-88136,2026-09-05,Noah King,noah_king@inbox.example.net,(720) 555-0174,2026-09-04,afternoon,a bus downtown,Other,Travel mug with. Really need this back,
+LR-88137,2026-09-05,Vince Jackson,vince_jackson15@mail.example,(402) 555-0139,2026-09-04,afternoon,the 19,Phone,"Samsung Galaxy phone clear case, black",
+LR-88138,2026-09-05,Victor Nguyen,victor.nguyen90@mail.example,(702) 555-0114,2026-09-04,afternoon,the 22,Other,My sunglasses in brown. Really need this back,
+LR-88139,2026-09-06,Noah Roberts,noahroberts@inbox.example.net,(512) 555-0121,2026-09-03,late night,the 17,Wallet/Purse,"Card holder, brown, slim. Really need this back",No match. Rider emailed.
+LR-88140,2026-09-06,Raj Gutierrez,raj.gutierrez82@example.com,(312) 555-0134,2026-09-01,late night,the 21,Electronics,Anker phone charger with cable,
+LR-88141,2026-09-06,Kevin Jackson,kevin.jackson89@example.com,(470) 555-0184,2026-09-05,rush hour,route 33 bus,Clothing,"Red Nike baseball cap, plain",
+LR-88142,2026-09-06,Erin Brown,erin.brown@inbox.example.net,(913) 555-0129,2026-09-01,around 8am,route 3 bus,Other,My sunglasses in tortoiseshell,No match. Rider emailed.
+LR-88143,2026-09-06,Gina Rogers,gina_rogers81@example.org,(913) 555-0189,2026-09-06,,the 1,Other,Folder of papers - tax forms,
+LR-88144,2026-09-06,Corey Bell,corey.bell80@inbox.example.net,(216) 555-0133,2026-09-01,,29 bus,Clothing,"Dark blue uniqlo jacket, denim",No match. Rider emailed.
+LR-88145,2026-09-06,Ashley Murphy,ashleymurphy@mail.example,(801) 555-0179,2026-09-03,rush hour,light rail,Electronics,"Bose over-ear headphones, black",No match. Rider emailed.
+LR-88146,2026-09-06,Paul Nelson,paul_nelson@example.com,(704) 555-0197,2026-09-05,evening,the 9,Other,Travel mug with,
+LR-88147,2026-09-06,Tiffany Bailey,tiffany.bailey61@example.org,(470) 555-0195,2026-09-06,late night,Route 33,ID/Cards,Bank card - please call me,
+LR-88148,2026-09-06,Ahmed Morris,ahmed_morris@inbox.example.net,(919) 555-0126,2026-09-03,not sure,24 bus,Clothing,Black baseball cap. adjustable. Left it on my seat. thanks,
+LR-88149,2026-09-06,Ahmed Singh,ahmedsingh@inbox.example.net,(614) 555-0135,2026-09-04,around noon,Route 22,Keys,"Keys on a ring, rubber duck keychain","Searched 9/6, no match."
+LR-88150,2026-09-06,Bonnie Mitchell,bonnie_mitchell75@mail.example,(816) 555-0141,2026-09-03,around 8am,Route 14,Other,Orange basketball,
+LR-88151,2026-09-06,Marlon Johnson,marlon_johnson@example.com,(720) 555-0106,2026-09-04,,9,Wallet/Purse,"Purse, red, zip top",
+LR-88152,2026-09-06,Hector Fischer,hector_fischer@inbox.example.net,(704) 555-0135,2026-09-05,afternoon,32 bus,Other,A hardcover cookbook,
+LR-88153,2026-09-06,Jessica Torres,jessicatorres@mail.example,(317) 555-0137,2026-09-06,late night,the 9,Other,My prescription bottle,"Searched 9/6, no match."
+LR-88154,2026-09-06,Yolanda Roberts,yolanda.roberts22@example.com,(312) 555-0152,2026-09-06,late night,11 bus,Keys,"Car key fob with keys, lanyard!!","Searched 9/6, no match."
+LR-88155,2026-09-06,Yolanda Evans,yolandaevans@inbox.example.net,(512) 555-0133,2026-09-05,around 8am,Route 23,Electronics,White anker phone charger,"Searched 9/6, no match."
+LR-88156,2026-09-07,Ruben Howard,ruben.howard@example.com,(216) 555-0166,2026-09-07,around 8am,29 bus,Phone,"Apple phone, silver, no case. Reward offered",
+LR-88157,2026-09-07,Megan Campbell,megan.campbell@example.com,(414) 555-0163,2026-09-05,afternoon,the 11,Bag,"Blue beach bag, straw","Searched 9/7, no match."
+LR-88158,2026-09-07,Rodney Richardson,rodney_richardson@inbox.example.net,(405) 555-0120,2026-09-02,morning,Route 37,Other,Wrapped gift. thanks,"Searched 9/7, no match."
+LR-88159,2026-09-07,Nicole Ward,nicole.ward69@example.org,(402) 555-0155,2026-09-07,afternoon,route 10 bus,Phone,My white iPhone with a lock screen photo of a beach,"Searched 9/7, no match."
+LR-88160,2026-09-07,Jill Haddad,jill_haddad@example.org,(919) 555-0100,2026-09-07,evening,the 19,Clothing,Lost my white baseball cap on the bus!!,
+LR-88161,2026-09-07,Robert Green,robert.green15@inbox.example.net,(608) 555-0125,2026-09-07,afternoon,route 5 bus,Electronics,"Samsung wireless earbuds, white",
+LR-88162,2026-09-07,Brenda Clark,brenda_clark@example.com,(512) 555-0122,2026-09-07,evening,35,Clothing,Champion hoodie in black,
+LR-88163,2026-09-07,Brenda Howard,brenda_howard@example.com,(608) 555-0198,2026-09-07,morning,Red Line,Bag,"Black tote bag, printed design. please help",
+LR-88164,2026-09-07,Hector Phillips,hector_phillips53@inbox.example.net,(312) 555-0112,2026-09-06,rush hour,Red line train,Clothing,"Green flannel shirt, plaid",
+LR-88165,2026-09-07,Jill Kim,jillkim91@example.com,(702) 555-0105,2026-09-07,late night,7 bus,ID/Cards,My transit pass card,No match. Rider emailed.
+LR-88166,2026-09-07,Megan Johnson,megan.johnson@mail.example,(615) 555-0117,2026-09-05,evening,Route 13,Phone,My pink iPhone with a cracked screen,"Searched 9/7, no match."
+LR-88167,2026-09-07,Ethan Nelson,ethan_nelson@inbox.example.net,(919) 555-0114,2026-09-07,rush hour,6 bus,Bag,Red nike backpack with pencil case inside,
+LR-88168,2026-09-07,Shelby Morgan,shelby_morgan@example.com,(402) 555-0179,2026-09-04,,14 bus,Other,My prescription glasses in tortoiseshell,"Searched 9/7, no match."
+LR-88169,2026-09-07,Andre Kowalski,andre_kowalski@example.org,(816) 555-0137,2026-09-07,morning,13 bus,Clothing,"Black Under Armour hoodie, says Westlake High Track on the back","Searched 9/7, no match."
+LR-88170,2026-09-07,Brenda Sanchez,brenda_sanchez@example.com,(405) 555-0186,2026-09-06,morning,29 bus,Phone,"Flip phone worn, dark grey",
+LR-88171,2026-09-07,Vince Dunbar,vincedunbar5@inbox.example.net,(704) 555-0116,2026-09-07,around 8am,Blue Line,Bag,"Black tote bag, canvas. Really need this back",No match. Rider emailed.
+LR-88172,2026-09-07,Carlos Edwards,carlos.edwards22@example.org,(614) 555-0149,2026-09-07,around 8am,route 28 bus,Bag,"Pink beach bag, striped canvas. thanks",No match. Rider emailed.
+LR-88173,2026-09-08,Nicole Turner,nicole.turner@mail.example,(702) 555-0109,2026-09-08,not sure,12,Bag,Black samsonite laptop bag with charger inside,
+LR-88174,2026-09-08,Nadine Williams,nadine.williams@example.org,(816) 555-0166,2026-09-07,rush hour,37 bus,Clothing,Sun hat in navy,
+LR-88175,2026-09-08,Brianna Phillips,brianna.phillips@example.org,(816) 555-0139,2026-09-05,around 8am,Route 32,Bag,Maroon North Face backpack with pencil case inside,"Searched 9/8, no match."
+LR-88176,2026-09-08,Anthony Singh,anthony_singh@mail.example,(317) 555-0188,2026-09-07,around 5:30pm,the 37,ID/Cards,My state ID card,
+LR-88177,2026-09-08,Andre Perez,andreperez@inbox.example.net,(402) 555-0107,2026-09-08,rush hour,Central Station,Phone,My silver iPhone with a case with card slot,
+LR-88178,2026-09-08,James Dunbar,james_dunbar@mail.example,(801) 555-0166,2026-09-06,late night,"bus or train, not sure",Other,Red umbrella,No match. Rider emailed.
+LR-88179,2026-09-08,Diego Bailey,diegobailey@inbox.example.net,(720) 555-0170,2026-09-08,around noon,not sure which bus,Clothing,Dark grey hoodie. college logo. Left it on my seat!!,
+LR-88180,2026-09-08,Ahmed Parker,ahmed.parker71@example.com,(512) 555-0126,2026-09-03,around 8am,Route 24,Clothing,Dark grey sweater. crew neck. Left it on my seat,
+LR-88181,2026-09-08,Travis Pruett,travispruett@example.org,(913) 555-0182,2026-09-03,,22 bus,Clothing,Grey hoodie. size XL. Left it on my seat,
+LR-88182,2026-09-08,Nicole Rogers,nicolerogers63@mail.example,(470) 555-0176,2026-09-03,afternoon,Route 38,Bag,Black Samsonite laptop bag with no laptop inside inside,
+LR-88183,2026-09-08,Paul Parker,paul_parker@inbox.example.net,(615) 555-0112,2026-09-05,afternoon,route 7 bus,Keys,Keys - eiffel tower keychain,"Searched 9/8, no match."
+LR-88184,2026-09-08,Deb Thomas,deb_thomas@inbox.example.net,(402) 555-0117,2026-09-05,evening,light rail,Bag,"My shopping bag!! it's white, has school supplies",No match. Rider emailed.
+LR-88185,2026-09-08,Isaac Garcia,isaac_garcia@example.com,(608) 555-0156,2026-09-08,rush hour,Route 32,Bag,"My backpack!! it's blue, has notebooks",
+LR-88186,2026-09-08,Gabriel Howard,gabriel_howard@inbox.example.net,(503) 555-0143,2026-09-08,morning,Route 36,Bag,Red under armour gym bag with gym clothes inside,"Searched 9/8, no match."
+LR-88187,2026-09-08,Ethan Novak,ethannovak@inbox.example.net,(816) 555-0129,2026-09-08,around noon,Route 28,Other,"Tortoiseshell prescription glasses, no case",
+LR-88188,2026-09-08,Shawn Martinez,shawn.martinez@example.org,(512) 555-0172,2026-09-05,afternoon,the 30,Other,My prescription bottle,No match. Rider emailed.
+LR-88189,2026-09-08,Erin Nguyen,erinnguyen@example.org,(414) 555-0191,2026-09-07,evening,37 bus,Phone,My pink iPhone with a case with card slot,
+LR-88190,2026-09-08,Nadine Kim,nadine.kim@inbox.example.net,(317) 555-0155,2026-09-08,afternoon,route 6 bus,Phone,"Iphone black case, silver","Searched 9/8, no match."
+LR-88191,2026-09-08,Jill Davis,jill.davis@example.com,(608) 555-0100,2026-09-08,not sure,34,Bag,Red Targus backpack with gym clothes inside. thanks,"Searched 9/8, no match."
+LR-88192,2026-09-08,Wes Kim,wes_kim@inbox.example.net,(402) 555-0145,2026-09-03,around noon,Red line train,Phone,My silver iPhone with a lock screen photo of a beach,
+LR-88193,2026-09-08,Dale Martinez,dale_martinez@example.com,(503) 555-0100,2026-09-08,around 8am,31,Wallet/Purse,"Bifold wallet, tan, worn","Searched 9/8, no match."
+LR-88194,2026-09-08,Jason Miller,jason.m1987@example.org,(314) 555-0187,2026-09-07,,a bus downtown,Phone,black phone,
+LR-88195,2026-09-08,Gina Stewart,ginastewart@inbox.example.net,(608) 555-0114,2026-09-05,around 8am,33,Bag,Black tote bag with folder of papers inside,
+LR-88196,2026-09-08,Brianna Novak,brianna_novak@example.com,(913) 555-0170,2026-09-03,rush hour,19,Other,Red travel mug,
+LR-88197,2026-09-08,Noah Rivera,noahrivera@mail.example,(816) 555-0194,2026-09-08,afternoon,Red line,Other,my reading glasses in a red case from Walgreens,"Searched 9/8, no match."
+LR-88198,2026-09-09,Noah Cooper,noahcooper@mail.example,(720) 555-0143,2026-09-09,late night,26,ID/Cards,State ID card - please call me,
+LR-88199,2026-09-09,Wendy Kowalski,wendy_kowalski@mail.example,(312) 555-0180,2026-09-09,around 5:30pm,Red line train,Electronics,Wireless earbuds in charging case,
+LR-88200,2026-09-09,Ashley Lopez,ashleylopez@mail.example,(702) 555-0139,2026-09-08,around noon,the 38,Phone,"Apple phone, pink, cracked screen","Searched 9/9, no match."
+LR-88201,2026-09-09,Linda Scott,linda_scott57@inbox.example.net,(704) 555-0172,2026-09-09,afternoon,light rail,Keys,"Car key fob with keys, carabiner",
+LR-88202,2026-09-09,Nicole Harris,nicole_harris87@example.org,(317) 555-0192,2026-09-09,around 5:30pm,blue line train,Clothing,"Dark blue scarf, fringed ends",
+LR-88203,2026-09-09,Victor Mitchell,victor.mitchell@example.org,(503) 555-0158,2026-09-04,not sure,the 19,Clothing,Champion hoodie in black,
+LR-88204,2026-09-09,Marlon Campbell,marloncampbell@mail.example,(702) 555-0184,2026-09-07,late night,34,Phone,"Samsung Galaxy phone wallet case, blue",
+LR-88205,2026-09-09,Heather Gutierrez,heather_gutierrez@example.org,(470) 555-0163,2026-09-09,not sure,route 5 bus,Electronics,Hp laptop in sleeve,No match. Rider emailed.
+LR-88206,2026-09-09,Ana Novak,ana.novak@example.org,(402) 555-0186,2026-09-09,morning,Red line train,Clothing,Olive jacket. denim. Left it on my seat. thanks,
+LR-88207,2026-09-09,Omar Harris,omar_harris@example.org,(402) 555-0122,2026-09-08,rush hour,Route 23,Other,Pink dog,"Searched 9/9, no match."
+LR-88208,2026-09-09,Noah Allen,noah_allen@example.com,(702) 555-0150,2026-09-04,rush hour,red line,ID/Cards,State ID card - please call me,
+LR-88209,2026-09-09,Megan Sanchez,megansanchez43@inbox.example.net,(312) 555-0154,2026-09-04,not sure,route 19 bus,Keys,"Keys on a ring, bottle opener keychain",
+LR-88210,2026-09-09,Wendy Ramirez,wendy.ramirez85@example.com,(402) 555-0185,2026-09-08,,24,Other,"Clear umbrella, wooden handle",
+LR-88211,2026-09-09,Victor Fischer,victor.fischer22@example.com,(402) 555-0162,2026-09-06,around 5:30pm,a bus downtown,Clothing,Lost my gray baseball cap on the bus. Really need this back,"Searched 9/9, no match."
+LR-88212,2026-09-09,Gina Ito,ginaito@inbox.example.net,(720) 555-0171,2026-09-09,around 5:30pm,a bus downtown,Other,Fern in pot,No match. Rider emailed.
+LR-88213,2026-09-09,Nadine Gutierrez,nadinegutierrez11@inbox.example.net,(801) 555-0178,2026-09-07,late night,31 bus,Electronics,"JBL over-ear headphones, silver",
+LR-88214,2026-09-09,Duane Brown,duane.brown@example.org,(615) 555-0121,2026-09-09,not sure,Route 32,Other,Travel mug with. Really need this back,"Searched 9/9, no match."
+LR-88215,2026-09-09,Hector Hill,hector_hill8@example.org,(913) 555-0197,2026-09-08,afternoon,11,Electronics,Handheld fan neck fan,
+LR-88216,2026-09-09,Chad King,chadking@inbox.example.net,(614) 555-0141,2026-09-09,,route 26 bus,Keys,"Car key fob with keys, carabiner!!",
+LR-88217,2026-09-09,Gina Brown,ginabrown@inbox.example.net,(608) 555-0169,2026-09-07,around noon,35 bus,Electronics,"Apple AirPods case, white","Searched 9/9, no match."
+LR-88218,2026-09-09,Raj White,raj_white@example.com,(704) 555-0153,2026-09-04,around 8am,the 21,Electronics,Black Kobo e-reader,
+LR-88219,2026-09-09,Yolanda Rogers,yolandarogers@example.org,(615) 555-0186,2026-09-09,around noon,Route 16,Other,My prescription glasses in tortoiseshell,"Searched 9/9, no match."
+LR-88220,2026-09-09,Brianna Green,brianna.green@example.org,(405) 555-0124,2026-09-07,afternoon,27 bus,Clothing,Dark blue sun hat. wide brim. left it on my seat,
+LR-88221,2026-09-10,James Perez,james_perez26@example.com,(801) 555-0106,2026-09-07,afternoon,33 bus,Keys,Set of keys (eiffel tower keychain),No match. Rider emailed.
+LR-88222,2026-09-10,Tonya Lopez,tonya_lopez24@mail.example,(414) 555-0133,2026-09-05,rush hour,route 26 bus,Clothing,Red flannel shirt. size L. Left it on my seat,
+LR-88223,2026-09-10,Crystal Torres,crystal.torres@example.com,(414) 555-0194,2026-09-10,,route 16 bus,Keys,"Car key fob with keys, gym tag",
+LR-88224,2026-09-10,Kim Allen,kimallen@inbox.example.net,(512) 555-0153,2026-09-10,around 8am,12 bus,Other,"Green umbrella, polka dot","Searched 9/10, no match."
+LR-88225,2026-09-10,Megan Harris,meganharris@example.com,(312) 555-0127,2026-09-05,not sure,route 31 bus,Phone,"Samsung galaxy phone wallet case, blue",
+LR-88226,2026-09-10,Victor Cox,victor_cox@inbox.example.net,(614) 555-0172,2026-09-09,rush hour,30,Keys,Keys - mailbox key,No match. Rider emailed.
+LR-88227,2026-09-10,Patricia Ramirez,patricia.ramirez@mail.example,(702) 555-0103,2026-09-08,late night,the 28,Bag,"My backpack!! it's grey, has textbook",
+LR-88228,2026-09-10,Jessica Sanchez,jessica.sanchez22@inbox.example.net,(503) 555-0189,2026-09-09,rush hour,32,Wallet/Purse,"Black bifold wallet, has my id and cards",
+LR-88229,2026-09-10,Vince Haddad,vincehaddad14@example.com,(816) 555-0197,2026-09-09,,the 8,Electronics,Phone charger with cable,"Searched 9/10, no match."
+LR-88230,2026-09-10,Jose Reed,josereed@mail.example,(615) 555-0199,2026-09-10,morning,13,Bag,Lululemon gym bag (black) with my work shoes in it,"Searched 9/10, no match."
+LR-88231,2026-09-10,Diego Clark,diego.clark@example.com,(512) 555-0159,2026-09-10,around 5:30pm,9 bus,Bag,"My beach bag!! it's white, has flip-flops",
+LR-88232,2026-09-10,Jamal Stewart,jamal_stewart37@example.com,(702) 555-0101,2026-09-09,not sure,23 bus,Keys,Set of keys (carabiner),"Searched 9/10, no match."
+LR-88233,2026-09-10,Gabriel Anderson,gabriel.anderson@inbox.example.net,(702) 555-0111,2026-09-09,late night,Blue Line,Other,My kid's action figure (yellow),No match. Rider emailed.
+LR-88234,2026-09-10,Isaac Singh,isaac.singh@example.com,(913) 555-0130,2026-09-10,not sure,not sure which bus,Bag,"My laptop bag!! it's black, has papers",No match. Rider emailed.
+LR-88235,2026-09-10,Jennifer Kowalski,jennifer.kowalski@example.org,(615) 555-0142,2026-09-10,afternoon,Red Line,Clothing,Gap sweater in green. Really need this back,"Searched 9/10, no match."
+LR-88236,2026-09-10,Brenda Dunbar,brendadunbar98@example.com,(405) 555-0113,2026-09-05,late night,22 bus,Other,Purple yoga mat,
+LR-88237,2026-09-10,Heather Becker,heatherbecker88@example.com,(801) 555-0142,2026-09-10,rush hour,route 32 bus,Other,My kid's worn (gray),
+LR-88238,2026-09-11,Michael Rivera,michael_rivera78@mail.example,(405) 555-0130,2026-09-11,around 8am,16,Other,Black PackIt lunch box,"Searched 9/11, no match."
+LR-88239,2026-09-11,Glen Turner,glen.turner@example.com,(702) 555-0171,2026-09-10,morning,red line,ID/Cards,My driver's license,
+LR-88240,2026-09-11,Glen Roberts,glenroberts@mail.example,(216) 555-0160,2026-09-08,not sure,not sure which bus,Bag,"My gym bag!! it's grey, has sneakers",
+LR-88241,2026-09-11,Gabriel Bell,gabriel_bell@inbox.example.net,(512) 555-0105,2026-09-06,around 5:30pm,blue line train,Wallet/Purse,"Bifold wallet, black, worn",
+LR-88242,2026-09-11,Ahmed Howard,ahmed_howard@example.org,(919) 555-0166,2026-09-08,morning,34,Other,Purple yoga mat. thanks,
+LR-88243,2026-09-11,Ashley Jackson,ashleyjackson@example.org,(919) 555-0112,2026-09-11,not sure,17,Clothing,Lost my navy jacket on the bus,No match. Rider emailed.
+LR-88244,2026-09-11,Deb Kim,deb_kim@example.com,(615) 555-0146,2026-09-08,around 5:30pm,not sure which bus,Keys,Set of keys (2 keys),No match. Rider emailed.
+LR-88245,2026-09-11,Paul Clark,paul_clark@example.com,(720) 555-0190,2026-09-10,afternoon,Red line train,Bag,Navy North Face backpack with textbook inside,
+LR-88246,2026-09-11,Lorraine Wilson,lorrainewilson@inbox.example.net,(470) 555-0165,2026-09-10,afternoon,18,Electronics,Wireless earbuds in charging case,"Searched 9/11, no match."
+LR-88247,2026-09-11,Trevor Lopez,trevor_lopez@mail.example,(919) 555-0185,2026-09-11,,the 29,Phone,"Samsung phone, gray, rugged case","Searched 9/11, no match."
+LR-88248,2026-09-11,Patricia Smith,patricia.smith26@example.com,(312) 555-0193,2026-09-11,late night,route 1 bus,Clothing,"Green jacket, light windbreaker",No match. Rider emailed.
+LR-88249,2026-09-11,Ethan Martinez,ethanmartinez61@example.com,(608) 555-0161,2026-09-11,morning,light rail,Bag,"My tote bag!! it's cream, has book","Searched 9/11, no match."
+LR-88250,2026-09-11,Kevin Ramirez,kevinramirez@example.com,(720) 555-0152,2026-09-10,,38,Clothing,Lost my dark grey baseball cap on the bus,
+LR-88251,2026-09-11,Wes White,wes.white@example.org,(720) 555-0185,2026-09-09,,Red line train,Phone,"Apple phone, blue, lock screen photo of a child",
+LR-88252,2026-09-11,Wes Patel,wespatel@inbox.example.net,(702) 555-0154,2026-09-11,not sure,Route 16,ID/Cards,State ID card - please call me,
+LR-88253,2026-09-11,Nicole Kowalski,nicole.kowalski84@mail.example,(608) 555-0175,2026-09-11,around noon,not sure which bus,Electronics,"Apple AirPods case, white","Searched 9/11, no match."
+LR-88254,2026-09-11,David Fischer,davidfischer@example.com,(512) 555-0110,2026-09-11,around noon,the 11,Phone,"Samsung Galaxy phone wallet case, black!!","Searched 9/11, no match."
+LR-88255,2026-09-11,Kim Lopez,kim_lopez@example.com,(503) 555-0150,2026-09-08,around 8am,route 31 bus,Phone,"IPhone case with card slot, pink",
+LR-88256,2026-09-11,Ana Lopez,ana_lopez@example.org,(503) 555-0193,2026-09-10,around 8am,the 13,Other,Purple Hydro Flask water bottle,No match. Rider emailed.
+LR-88257,2026-09-11,Tiffany Adams,tiffany.adams@example.org,(720) 555-0183,2026-09-08,late night,37 bus,Phone,"IPhone black case, pink",No match. Rider emailed.
+LR-88258,2026-09-11,Wendy Howard,wendy.howard16@mail.example,(503) 555-0140,2026-09-09,around 8am,route 10 bus,Clothing,Champion hoodie in gray,
+LR-88259,2026-09-11,Derek Anderson,derek.anderson55@example.org,(402) 555-0120,2026-09-10,late night,Route 15,Wallet/Purse,Pink Kate Spade card holder with my license,
+LR-88260,2026-09-12,Brian Evans,brian_evans@mail.example,(216) 555-0168,2026-09-12,around noon,Route 6,Clothing,"Dark blue Carhartt jacket, light windbreaker","Searched 9/12, no match."
+LR-88261,2026-09-12,Lauren Wilson,lauren.wilson70@mail.example,(720) 555-0168,2026-09-09,rush hour,5 bus,Phone,"Tcl phone, grey, prepaid",
+LR-88262,2026-09-12,Andre Bailey,andrebailey@mail.example,(801) 555-0132,2026-09-12,evening,the 21,Other,My inhaler,
+LR-88263,2026-09-12,Rodney King,rodneyking40@mail.example,(608) 555-0153,2026-09-09,morning,Route 14,Phone,My silver iPhone with a no case,
+LR-88264,2026-09-12,Travis Young,travis_young@example.com,(704) 555-0134,2026-09-09,not sure,16,Bag,"Brown laptop bag, padded",No match. Rider emailed.
+LR-88265,2026-09-12,Jill Thomas,jillthomas38@example.org,(312) 555-0124,2026-09-12,morning,blue line train,Bag,"Grey laptop bag, padded","Searched 9/12, no match."
+LR-88266,2026-09-12,Chad Cooper,chadcooper@example.com,(615) 555-0179,2026-09-07,evening,13 bus,Bag,Red backpack with notebooks inside,
+LR-88267,2026-09-12,Hector Ito,hector.ito32@mail.example,(704) 555-0174,2026-09-11,afternoon,Route 7,Wallet/Purse,"Black card holder, has my ID and cards",
+LR-88268,2026-09-12,Tamika Pruett,tamika_pruett@mail.example,(317) 555-0115,2026-09-07,around 8am,30,Clothing,Baseball cap in dark blue,"Searched 9/12, no match."
+LR-88269,2026-09-12,Ahmed Lewis,ahmed_lewis@mail.example,(702) 555-0199,2026-09-07,evening,29 bus,Electronics,Airpods case in silicone cover,
+LR-88270,2026-09-12,Tyler Dunbar,tyler_dunbar@inbox.example.net,(317) 555-0190,2026-09-12,morning,Central Station,Phone,"Samsung Galaxy phone pop socket on back, black",
+LR-88271,2026-09-12,Paul Jackson,paul.jackson71@inbox.example.net,(512) 555-0101,2026-09-07,not sure,Route 14,Keys,"Keys on a ring, rubber duck keychain",No match. Rider emailed.
+LR-88272,2026-09-12,James Morgan,james_morgan@mail.example,(216) 555-0172,2026-09-11,morning,Red line train,Bag,"White shopping bag, paper","Searched 9/12, no match."
+LR-88273,2026-09-12,Ahmed Collins,ahmed_collins@mail.example,(801) 555-0159,2026-09-12,around 5:30pm,27 bus,Keys,Set of keys (lanyard),
+LR-88274,2026-09-12,Brian Martinez,brian.martinez@inbox.example.net,(503) 555-0104,2026-09-12,around 5pm,27,Bag,"Brown leather messenger bag with a brass buckle. My sketchbook is inside, really important to me","Searched 9/12, no match."
+LR-88275,2026-09-12,Paul Brown,paulbrown@inbox.example.net,(317) 555-0186,2026-09-11,not sure,Blue Line,Phone,"IPhone lock screen photo of a beach, silver!!",
+LR-88276,2026-09-12,Nadine Mitchell,nadine_mitchell69@example.com,(816) 555-0117,2026-09-11,rush hour,route 28 bus,Electronics,Grey Samsung Galaxy Tab tablet,
+LR-88277,2026-09-12,Rick Carter,rickcarter43@mail.example,(512) 555-0195,2026-09-12,late night,Red Line,Bag,Maroon Targus backpack with charger cable inside,
+LR-88278,2026-09-12,Tiffany Johnson,tiffanyjohnson27@example.com,(614) 555-0180,2026-09-10,not sure,10 bus,Keys,Honda keys - gym tag,"Searched 9/12, no match."
+LR-88279,2026-09-12,Wes White,wes_white64@example.com,(470) 555-0162,2026-09-10,around 8am,3 bus,Wallet/Purse,Pink card holder with my license. Really need this back,"Searched 9/12, no match."
+LR-88280,2026-09-13,Wendy Wilson,wendy.wilson@mail.example,(801) 555-0112,2026-09-13,,20 bus,Electronics,Black phone charger,
+LR-88281,2026-09-13,Kurt Mitchell,kurt.mitchell75@example.com,(704) 555-0118,2026-09-12,late night,blue line train,Other,"Tortoiseshell sunglasses, in soft pouch",
+LR-88282,2026-09-13,Wes Stewart,wesstewart@inbox.example.net,(503) 555-0138,2026-09-08,around 8am,Red Line,Bag,Pink beach bag with sunscreen inside,
+LR-88283,2026-09-13,Gabriel Morris,gabrielmorris55@inbox.example.net,(919) 555-0130,2026-09-11,late night,11 bus,Electronics,Over-ear headphones no case,
+LR-88284,2026-09-13,Chad Evans,chad.evans5@inbox.example.net,(512) 555-0166,2026-09-13,not sure,Central Station,Electronics,Kindle e-reader no cover,"Searched 9/13, no match."
+LR-88285,2026-09-13,Dale Collins,dalecollins@inbox.example.net,(720) 555-0147,2026-09-11,rush hour,Blue Line,Other,"Yellow umbrella, golf size",
+LR-88286,2026-09-13,Rosa Morgan,rosa_morgan@example.org,(317) 555-0123,2026-09-11,evening,the 24,Clothing,"Gray hoodie, plain","Searched 9/13, no match."
+LR-88287,2026-09-13,Gina Becker,gina_becker35@inbox.example.net,(816) 555-0168,2026-09-13,rush hour,Central Station,Clothing,L.L.Bean flannel shirt in blue,No match. Rider emailed.
+LR-88288,2026-09-13,Paul Hill,paul.hill72@inbox.example.net,(312) 555-0174,2026-09-10,around 5:30pm,17,Clothing,Lost my red jacket on the bus,
+LR-88289,2026-09-13,Ahmed Nguyen,ahmed_nguyen71@example.org,(216) 555-0173,2026-09-12,late night,"bus or train, not sure",Electronics,Apple phone charger with cable,No match. Rider emailed.
+LR-88290,2026-09-13,Shelby Ito,shelby_ito@inbox.example.net,(816) 555-0196,2026-09-13,afternoon,Route 35,ID/Cards,My driver's license. Reward offered,
+LR-88291,2026-09-13,Kurt Parker,kurtparker@inbox.example.net,(913) 555-0102,2026-09-12,,route 37 bus,Other,Small succulent,
+LR-88292,2026-09-13,Shawn Howard,shawn.howard19@example.com,(402) 555-0148,2026-09-12,around noon,Route 10,Electronics,Anker phone charger with cable,
+LR-88293,2026-09-13,Diego Morris,diego.morris@example.org,(919) 555-0190,2026-09-13,,Route 14,Clothing,Dark grey baseball cap. team logo. Left it on my seat!!,
+LR-88294,2026-09-13,Wes Sanchez,wes_sanchez@example.com,(614) 555-0163,2026-09-08,,the 20,Bag,"Brown laptop bag, shoulder strap","Searched 9/13, no match."
+LR-88295,2026-09-13,Ahmed Young,ahmed.young@example.com,(801) 555-0111,2026-09-11,,18,Wallet/Purse,"Pink card holder, has my ID and cards",
+LR-88296,2026-09-13,Patricia Clark,patricia.clark32@inbox.example.net,(801) 555-0162,2026-09-10,evening,20 bus,Phone,"Samsung phone, blue, cracked back",
+LR-88297,2026-09-13,Brian Bailey,brian_bailey@example.com,(614) 555-0109,2026-09-13,late night,Route 4,ID/Cards,My transit pass card,No match. Rider emailed.
+LR-88298,2026-09-13,Glen Dunbar,glen.dunbar88@inbox.example.net,(312) 555-0153,2026-09-13,around noon,route 6 bus,Other,"Bracelet, gold, beaded",
+LR-88299,2026-09-13,Wendy Patel,wendypatel@inbox.example.net,(317) 555-0164,2026-09-12,around 8am,32,ID/Cards,My transit pass card,"Searched 9/13, no match."
+LR-88300,2026-09-13,Victor Phillips,victor.phillips@inbox.example.net,(512) 555-0192,2026-09-13,morning,11,Phone,"IPhone black case, black",No match. Rider emailed.
+LR-88301,2026-09-14,Nicole Green,nicole_green@example.org,(405) 555-0167,2026-09-09,around noon,route 15 bus,ID/Cards,"Lost state ID card, name on it is mine",
+LR-88302,2026-09-14,Carlos Evans,carlos.evans@inbox.example.net,(470) 555-0160,2026-09-14,rush hour,29 bus,Wallet/Purse,Tan Coach bifold wallet with my license,"Searched 9/14, no match."
+LR-88303,2026-09-14,Erin Clark,erinclark62@example.org,(720) 555-0126,2026-09-13,,22 bus,Bag,Dark blue JanSport backpack with notebooks inside,
+LR-88304,2026-09-14,Victor Martinez,victormartinez51@mail.example,(503) 555-0190,2026-09-12,afternoon,28 bus,Phone,My purple iphone with a lock screen photo of a beach. Really need this back,
+LR-88305,2026-09-14,Trevor Morris,trevormorris@inbox.example.net,(414) 555-0175,2026-09-11,morning,Red Line,Clothing,Nike baseball cap in gray,
+LR-88306,2026-09-14,Gabriel Jackson,gabrieljackson@example.org,(312) 555-0151,2026-09-12,late night,Route 23,Wallet/Purse,"Black card holder, has my ID and cards",No match. Rider emailed.
+LR-88307,2026-09-14,Rick Parker,rick_parker@example.org,(919) 555-0122,2026-09-12,evening,the 24,Other,Book - hardcover cookbook,
+LR-88308,2026-09-14,Derek Wright,derek_wright@example.com,(414) 555-0178,2026-09-13,rush hour,12 bus,Other,"Green umbrella, compact",
+LR-88309,2026-09-14,Wes Harris,wes_harris66@example.org,(512) 555-0181,2026-09-09,around noon,the 38,Other,"Brown sunglasses, aviator",
+LR-88310,2026-09-14,Ethan Richardson,ethan.richardson19@inbox.example.net,(816) 555-0131,2026-09-12,late night,"bus or train, not sure",ID/Cards,Transit pass card - please call me. Really need this back,No match. Rider emailed.
+LR-88311,2026-09-14,Ahmed Young,ahmedyoung@inbox.example.net,(919) 555-0192,2026-09-14,evening,34,Bag,Black laptop bag with charger inside. Reward offered,
+LR-88312,2026-09-14,Tamika Collins,tamika.collins47@example.com,(402) 555-0168,2026-09-12,late night,the 34,Phone,My blue iphone with a black case,
+LR-88313,2026-09-14,Raj Morgan,raj_morgan10@mail.example,(405) 555-0155,2026-09-12,not sure,23,Electronics,Belkin portable power bank. Reward offered,
+LR-88314,2026-09-14,Vince Cook,vincecook@inbox.example.net,(816) 555-0116,2026-09-09,not sure,21 bus,Bag,"My beach bag!! it's white, has flip-flops",
+LR-88315,2026-09-14,Bonnie Green,bonnie_green@inbox.example.net,(312) 555-0183,2026-09-14,,blue line train,Electronics,"Samsung wireless earbuds, white","Searched 9/14, no match."
+LR-88316,2026-09-14,Noah Scott,noah_scott@inbox.example.net,(216) 555-0164,2026-09-11,around 8am,38,Bag,Brown Macy's shopping bag with toiletries inside,
+LR-88317,2026-09-14,Wes Nelson,wes_nelson@example.org,(414) 555-0197,2026-09-14,evening,Red line train,ID/Cards,"Lost student ID card, name on it is mine",
+LR-88318,2026-09-14,Robert Stewart,robert_stewart@example.com,(615) 555-0115,2026-09-11,around noon,route 4 bus,Clothing,Green flannel shirt. plaid. Left it on my seat,
+LR-88319,2026-09-15,Isaac Rogers,isaac_rogers@example.org,(402) 555-0163,2026-09-13,rush hour,Red Line,Electronics,Black portable power bank. please help,"Searched 9/15, no match."
+LR-88320,2026-09-15,Jennifer Haddad,jennifer.haddad@example.org,(414) 555-0134,2026-09-10,afternoon,Route 36,Bag,"My shopping bag!! it's white, has toiletries. Reward offered",
+LR-88321,2026-09-15,Wes Ramirez,wes.ramirez34@mail.example,(816) 555-0146,2026-09-13,evening,the 17,Bag,"Beige tote bag, canvas. thanks",No match. Rider emailed.
+LR-88322,2026-09-15,Tamika Baker,tamikabaker@inbox.example.net,(608) 555-0137,2026-09-15,evening,route 13 bus,Phone,"IPhone lock screen photo of a child, blue","Searched 9/15, no match."
+LR-88323,2026-09-15,Carlos Bailey,carlosbailey34@inbox.example.net,(414) 555-0127,2026-09-15,around 5:30pm,Route 29,Bag,"Beige tote bag, printed design",
+LR-88324,2026-09-15,Samuel Lopez,samuel.lopez83@inbox.example.net,(608) 555-0131,2026-09-12,,route 12 bus,Bag,Blue beach bag with flip-flops inside. Reward offered,"Searched 9/15, no match."
+LR-88325,2026-09-15,Tyler Murphy,tyler.murphy@example.org,(608) 555-0116,2026-09-13,around 8am,2,Other,A textbook (chemistry),No match. Rider emailed.
+LR-88326,2026-09-15,Rick Williams,rickwilliams@inbox.example.net,(614) 555-0131,2026-09-10,not sure,not sure which bus,Bag,"Black gym bag, shoe compartment",
+LR-88327,2026-09-15,Keisha Robinson,keisharobinson@example.org,(405) 555-0151,2026-09-15,,Red Line,Bag,"My laptop bag!! it's dark grey, has no laptop inside","Searched 9/15, no match."
+LR-88328,2026-09-15,Paul Dunbar,paul.dunbar@inbox.example.net,(801) 555-0103,2026-09-15,afternoon,12,Other,Purple Hydro Flask covered in national park stickers,"Searched 9/15, no match."
+LR-88329,2026-09-15,Jennifer Turner,jenniferturner87@example.org,(402) 555-0147,2026-09-13,around noon,Route 13,Wallet/Purse,"Brown bifold wallet, has my id and cards",
+LR-88330,2026-09-15,Jennifer Morris,jennifer_morris36@example.org,(414) 555-0154,2026-09-15,rush hour,the 31,Bag,Black under armour gym bag with towel inside,
+LR-88331,2026-09-15,Hector Walker,hector_walker40@example.org,(919) 555-0154,2026-09-10,evening,Blue Line,Other,Folder of papers - medical paperwork,No match. Rider emailed.
+LR-88332,2026-09-15,Brenda Martinez,brenda_martinez@mail.example,(405) 555-0128,2026-09-15,late night,Route 13,Clothing,"Red baseball cap, plain",No match. Rider emailed.
+LR-88333,2026-09-15,Megan Turner,meganturner@example.org,(801) 555-0107,2026-09-14,not sure,the 8,Bag,"Red shopping bag, paper. please help","Searched 9/15, no match."
+LR-88334,2026-09-15,Brian Williams,brianwilliams@example.org,(312) 555-0130,2026-09-15,not sure,route 17 bus,Other,My walking cane,
+LR-88335,2026-09-15,Victor Green,victorgreen@example.org,(402) 555-0144,2026-09-15,not sure,the 11,Bag,Red Herschel backpack with lunch box inside,"Searched 9/15, no match."
+LR-88336,2026-09-15,Nicole Brown,nicolebrown@example.org,(405) 555-0121,2026-09-14,late night,Red line train,Wallet/Purse,"Black bifold wallet, has my ID and cards. Really need this back","Searched 9/15, no match."
+LR-88337,2026-09-15,Trevor White,trevor_white@example.org,(720) 555-0103,2026-09-10,evening,Route 31,Other,My sunglasses in tortoiseshell,
+LR-88338,2026-09-15,Gabriel Wright,gabriel.wright@example.com,(312) 555-0159,2026-09-15,,Route 5,Other,Orange basketball. Really need this back,
+LR-88339,2026-09-15,Ashley Carter,ashleycarter46@example.com,(720) 555-0107,2026-09-10,around 5:30pm,2 bus,Other,"Tortoiseshell prescription glasses, wire frames",
+LR-88340,2026-09-15,Derek Evans,derekevans@mail.example,(801) 555-0172,2026-09-15,around noon,24 bus,Other,,
+LR-88341,2026-09-16,Marlon Lewis,marlon_lewis18@mail.example,(405) 555-0182,2026-09-14,afternoon,Route 1,Bag,"Cream tote bag, canvas","Searched 9/16, no match."
+LR-88342,2026-09-16,Ahmed Anderson,ahmedanderson@mail.example,(816) 555-0106,2026-09-11,around 8am,the 30,Electronics,"Apple AirPods case, white. Really need this back",
+LR-88343,2026-09-16,Jay Miller,jaymiller@inbox.example.net,(314) 555-0187,2026-09-15,,a bus downtown,Wallet/Purse,Brown wallet leather,
+LR-88344,2026-09-16,Derek Smith,derek_smith@mail.example,(414) 555-0110,2026-09-16,around 8am,22 bus,Bag,"My backpack!! it's blue, has textbook",No match. Rider emailed.
+LR-88345,2026-09-16,Tiffany Robinson,tiffany.robinson@example.org,(702) 555-0151,2026-09-16,rush hour,Red Line,Bag,"Black gym bag, shoulder strap",No match. Rider emailed.
+LR-88346,2026-09-16,Nicole Hill,nicole_hill@example.com,(720) 555-0157,2026-09-16,late night,route 10 bus,ID/Cards,My driver's license. please help,No match. Rider emailed.
+LR-88347,2026-09-16,Ashley Cox,ashley.cox@example.com,(614) 555-0197,2026-09-15,around 8am,Blue Line,Other,Pink PackIt lunch box,
+LR-88348,2026-09-16,Tonya Young,tonya.young@example.org,(816) 555-0123,2026-09-14,afternoon,route 20 bus,ID/Cards,My driver's license,
+LR-88349,2026-09-16,Michael Perez,michael_perez82@example.org,(720) 555-0176,2026-09-16,around 5:30pm,Route 13,Other,Brown worn,
+LR-88350,2026-09-16,Tonya White,tonya.white89@mail.example,(402) 555-0128,2026-09-13,evening,Red line train,Bag,Green tote bag with knitting inside,"Searched 9/16, no match."
+LR-88351,2026-09-16,Corey Robinson,corey_robinson@example.com,(512) 555-0160,2026-09-15,around 8am,32,Other,Water bottle with stickers,
+LR-88352,2026-09-16,Raj Sanchez,raj_sanchez@example.org,(801) 555-0134,2026-09-11,around 8am,Route 27,Bag,"My tote bag!! it's beige, has book",
+LR-88353,2026-09-16,Ahmed Brown,ahmed.brown@example.org,(702) 555-0113,2026-09-16,not sure,4,Electronics,"Jbl over-ear headphones, white","Searched 9/16, no match."
+LR-88354,2026-09-16,Kim Collins,kimcollins25@example.org,(702) 555-0175,2026-09-15,late night,38 bus,Phone,"Google phone, white, cracked screen",No match. Rider emailed.
+LR-88355,2026-09-16,Noah Parker,noahparker@example.org,(919) 555-0123,2026-09-16,around 8am,Route 15,Bag,"My gym bag!! it's black, has sneakers. Really need this back",
+LR-88356,2026-09-16,Rosa Young,rosa.young@mail.example,(816) 555-0136,2026-09-16,around noon,Red line train,Other,Water bottle with dented,"Searched 9/16, no match."
+LR-88357,2026-09-16,Andre Smith,andresmith@example.com,(704) 555-0198,2026-09-13,morning,route 14 bus,Other,"Brown sunglasses, no case","Searched 9/16, no match."
+LR-88358,2026-09-16,Jose Kowalski,jose_kowalski46@example.com,(702) 555-0134,2026-09-16,around 8am,the 12,Wallet/Purse,"Black bifold wallet, has my ID and cards",
+LR-88359,2026-09-17,Trevor Gutierrez,trevor.gutierrez@mail.example,(414) 555-0102,2026-09-12,morning,2 bus,Wallet/Purse,Black bifold wallet with my license,
+LR-88360,2026-09-17,Rick Reed,rick_reed33@example.org,(312) 555-0111,2026-09-17,morning,route 31 bus,Electronics,Silver Apple iPad tablet,
+LR-88361,2026-09-17,Shelby Edwards,shelby.edwards57@inbox.example.net,(317) 555-0157,2026-09-17,around 5:30pm,route 10 bus,Other,Green Totes umbrella,
+LR-88362,2026-09-17,Kim Carter,kim_carter@example.com,(216) 555-0128,2026-09-17,around 8am,9,Other,A medical paperwork,
+LR-88363,2026-09-17,Wes White,wes_white@inbox.example.net,(704) 555-0145,2026-09-17,around 8am,Route 25,Electronics,"Beats wireless earbuds, blue",
+LR-88364,2026-09-17,James Carter,james.carter63@mail.example,(402) 555-0171,2026-09-17,late night,11 bus,Other,Prescription bottle - need it urgently,
+LR-88365,2026-09-17,Kurt Rivera,kurt.rivera@mail.example,(402) 555-0103,2026-09-16,afternoon,the 21,ID/Cards,Driver's license - please call me,"Searched 9/17, no match."
+LR-88366,2026-09-17,Erin Allen,erin.allen@example.com,(615) 555-0111,2026-09-14,rush hour,24 bus,Other,"Brown sunglasses, aviator. thanks","Searched 9/17, no match."
+LR-88367,2026-09-17,Rosa Collins,rosa.collins@mail.example,(470) 555-0114,2026-09-17,evening,the 15,Phone,"Samsung Galaxy phone clear case, black","Searched 9/17, no match."
+LR-88368,2026-09-17,Michael Hill,michael_hill@example.org,(216) 555-0162,2026-09-17,afternoon,Route 11,Bag,"My gym bag!! it's red, has gym clothes",
+LR-88369,2026-09-17,Rodney Kim,rodney.kim@inbox.example.net,(470) 555-0141,2026-09-17,around noon,5,Clothing,Lost my black baseball cap on the bus,No match. Rider emailed.
+LR-88370,2026-09-17,Kurt Anderson,kurtanderson@example.org,(704) 555-0117,2026-09-17,around noon,route 29 bus,Keys,"Key on a lanyard, work ID badge holder (empty)","Searched 9/17, no match."
+LR-88371,2026-09-17,Jennifer Lewis,jenniferlewis95@example.org,(919) 555-0198,2026-09-15,not sure,5,Electronics,Dark grey hp laptop,
+LR-88372,2026-09-17,Rodney Rivera,rodney_rivera@mail.example,(317) 555-0187,2026-09-16,,the 35,Other,Black yeti travel mug. Reward offered,
+LR-88373,2026-09-17,Bonnie Becker,bonniebecker@inbox.example.net,(614) 555-0122,2026-09-12,rush hour,Route 23,Electronics,Over-ear headphones no case. Really need this back,"Searched 9/17, no match."
+LR-88374,2026-09-17,Tammy Rourke,tammy.rourke@example.com,(470) 555-0143,2026-09-17,around 8:30am,Route 14,Electronics,"Silver MacBook Air with a hot air balloon sticker on the lid. Left it on my seat, Route 14 inbound around 8:30am","Searched 9/17, no match."
+LR-88375,2026-09-17,Nicole Mitchell,nicole.mitchell96@inbox.example.net,(913) 555-0107,2026-09-17,around 8am,the 14,Bag,"Green tote bag, printed design","Searched 9/17, no match."
+LR-88376,2026-09-17,Lorraine Cox,lorraine.cox15@example.org,(704) 555-0194,2026-09-14,not sure,Route 24,Keys,Set of keys (mailbox key),"Searched 9/17, no match."
+LR-88377,2026-09-18,Ruben Roberts,rubenroberts@example.com,(919) 555-0118,2026-09-18,not sure,light rail,Other,A hardcover cookbook,
+LR-88378,2026-09-18,Omar Garcia,omargarcia@example.org,(615) 555-0153,2026-09-13,late night,red line,Other,Travel mug with,"Searched 9/18, no match."
+LR-88379,2026-09-18,Derek Ramirez,derek.ramirez@inbox.example.net,(720) 555-0195,2026-09-15,not sure,13,Electronics,Samsung Galaxy Tab tablet rugged kids case,
+LR-88380,2026-09-18,Carlos Howard,carlos_howard58@mail.example,(615) 555-0147,2026-09-18,around noon,10 bus,Phone,My silver iPhone with a cracked screen,
+LR-88381,2026-09-18,Ethan Parker,ethan.parker@inbox.example.net,(816) 555-0159,2026-09-18,late night,not sure which bus,Other,UPPAbaby folding stroller,No match. Rider emailed.
+LR-88382,2026-09-18,Ana Murphy,ana_murphy@example.com,(216) 555-0125,2026-09-18,around 5:30pm,8 bus,Electronics,Black Kobo e-reader,No match. Rider emailed.
+LR-88383,2026-09-18,Becky Turner,beckyturner27@inbox.example.net,(801) 555-0164,2026-09-13,late night,blue line train,Other,My hearing aid,
+LR-88384,2026-09-18,Vince Martinez,vince.martinez68@mail.example,(608) 555-0162,2026-09-15,around noon,route 23 bus,Phone,"Samsung phone, green, wallet case. thanks","Searched 9/18, no match."
+LR-88385,2026-09-18,Jamal Scott,jamal_scott57@inbox.example.net,(702) 555-0122,2026-09-18,afternoon,the 25,Wallet/Purse,"Tan bifold wallet, has my ID and cards",No match. Rider emailed.
+LR-88386,2026-09-18,Trevor Murphy,trevor_murphy@inbox.example.net,(702) 555-0148,2026-09-18,not sure,19 bus,Other,Yoga mat,
+LR-88387,2026-09-18,Glen Brown,glen_brown@mail.example,(919) 555-0181,2026-09-17,evening,a bus downtown,Clothing,Baseball cap in black,
+LR-88388,2026-09-18,Marlon Roberts,marlonroberts71@example.com,(816) 555-0147,2026-09-16,not sure,26 bus,ID/Cards,Driver's license - please call me,
+LR-88389,2026-09-18,Jose Patel,jose_patel@example.org,(801) 555-0174,2026-09-18,evening,blue line,Electronics,"Beats over the ear headphones, white, in a gray zip case","Searched 9/18, no match."
+LR-88390,2026-09-18,Jessica Rogers,jessicarogers@mail.example,(512) 555-0168,2026-09-18,,Red Line,Electronics,Black Kindle e-reader,"Searched 9/18, no match."
+LR-88391,2026-09-18,Ethan Morgan,ethan.morgan@mail.example,(919) 555-0148,2026-09-13,afternoon,a bus downtown,Bag,"My gym bag!! it's red, has towel. thanks",
+LR-88392,2026-09-18,Hector Howard,hector_howard@example.org,(614) 555-0194,2026-09-18,,light rail,Bag,Blue Herschel backpack with charger cable inside,
+LR-88393,2026-09-18,Becky Cooper,beckycooper@mail.example,(317) 555-0141,2026-09-17,around noon,route 25 bus,ID/Cards,Student ID card - please call me,
+LR-88394,2026-09-18,Nicole Anderson,nicoleanderson@inbox.example.net,(503) 555-0159,2026-09-17,evening,the 30,ID/Cards,Driver's license - please call me,"Searched 9/18, no match."
+LR-88395,2026-09-18,Crystal Ito,crystal_ito@mail.example,(402) 555-0169,2026-09-17,around 5:30pm,blue line train,Other,"Dark blue umbrella, broken spoke","Searched 9/18, no match."
+LR-88396,2026-09-18,Jennifer Singh,jennifersingh@mail.example,(704) 555-0152,2026-09-18,late night,the 33,Wallet/Purse,Black fossil bifold wallet with my license. Reward offered,"Searched 9/18, no match."
+LR-88397,2026-09-19,Lauren Bailey,lauren_bailey@example.com,(615) 555-0170,2026-09-18,evening,28,Bag,Green tote bag with book inside,No match. Rider emailed.
+LR-88398,2026-09-19,Jamal Pruett,jamal.pruett@example.org,(720) 555-0149,2026-09-18,around 8am,blue line train,Clothing,Lost my maroon hoodie on the bus,
+LR-88399,2026-09-19,Nicole Hill,nicolehill@example.org,(608) 555-0174,2026-09-16,rush hour,Red line train,Clothing,Levi's jacket in green,No match. Rider emailed.
+LR-88400,2026-09-19,Ethan Bell,ethanbell@mail.example,(216) 555-0159,2026-09-19,around 5:30pm,Route 32,Other,"Black sunglasses, aviator!!","Searched 9/19, no match."
+LR-88401,2026-09-19,Glen Campbell,glencampbell54@example.org,(608) 555-0122,2026-09-18,late night,red line,Other,Water bottle with straw lid,"Searched 9/19, no match."
+LR-88402,2026-09-19,Brianna Torres,brianna.torres3@mail.example,(608) 555-0186,2026-09-18,around 8am,34,Electronics,Handheld fan neck fan,"Searched 9/19, no match."
+LR-88403,2026-09-19,Brenda Ward,brenda.ward@inbox.example.net,(312) 555-0116,2026-09-14,morning,route 23 bus,Other,Navy Totes umbrella,No match. Rider emailed.
+LR-88404,2026-09-19,Gabriel Mitchell,gabrielmitchell@inbox.example.net,(317) 555-0152,2026-09-19,evening,16,Electronics,AirPods Pro in a pink silicone case with a keychain clip,"Searched 9/19, no match."
+LR-88405,2026-09-19,Jessica Kim,jessica_kim@inbox.example.net,(402) 555-0193,2026-09-14,evening,Blue Line,Wallet/Purse,"Purse, red, shoulder bag",
+LR-88406,2026-09-19,Gabriel Stewart,gabrielstewart@mail.example,(470) 555-0137,2026-09-19,around noon,the 37,Wallet/Purse,Black bifold wallet with my license,
+LR-88407,2026-09-19,Samuel King,samuelking80@inbox.example.net,(405) 555-0196,2026-09-14,,Route 13,ID/Cards,Student id card - please call me,
+LR-88408,2026-09-19,Deb Adams,debadams74@example.com,(503) 555-0186,2026-09-18,not sure,the 36,Keys,Set of keys (carabiner),"Searched 9/19, no match."
+LR-88409,2026-09-19,Deb Morris,deb.morris9@example.com,(816) 555-0134,2026-09-14,late night,Route 9,Bag,"Black tote bag, printed design",
+LR-88410,2026-09-19,Ana Cook,ana_cook66@inbox.example.net,(608) 555-0113,2026-09-17,morning,the 22,Other,Black umbrella,"Searched 9/19, no match."
+LR-88411,2026-09-19,Bonnie Anderson,bonnie_anderson47@example.org,(414) 555-0128,2026-09-19,around noon,20 bus,Other,Red travel mug,
+LR-88412,2026-09-19,Deb Howard,debhoward1@inbox.example.net,(702) 555-0192,2026-09-18,afternoon,Red line train,Clothing,"White sun hat, straw. Reward offered",
+LR-88413,2026-09-19,Nicole Mensah,nicole.mensah@mail.example,(470) 555-0138,2026-09-18,around 8am,the 38,Electronics,AirPods case in silicone cover,
+LR-88414,2026-09-19,Anthony Johnson,anthony_johnson@mail.example,(312) 555-0164,2026-09-16,around 5:30pm,Route 21,Bag,"Red gym bag, shoe compartment",No match. Rider emailed.
+LR-88415,2026-09-19,Nicole Haddad,nicole_haddad14@example.com,(405) 555-0141,2026-09-16,rush hour,red line,Bag,"Beige tote bag, canvas","Searched 9/19, no match."
+LR-88416,2026-09-19,Ahmed Collins,ahmedcollins@example.org,(317) 555-0151,2026-09-19,not sure,route 13 bus,Electronics,Black Kindle e-reader,
+LR-88417,2026-09-19,Wendy Patel,wendy.patel@example.org,(913) 555-0173,2026-09-19,late night,31,Electronics,Black Kindle e-reader,"Searched 9/19, no match."
+LR-88418,2026-09-20,Jamal Patel,jamal.patel@example.com,(414) 555-0103,2026-09-19,rush hour,35 bus,Other,Book - textbook (chemistry),
+LR-88419,2026-09-20,Kevin Kim,kevin_kim@mail.example,(919) 555-0150,2026-09-20,around 5:30pm,Red line train,Other,Water bottle with dented,"Searched 9/20, no match."
+LR-88420,2026-09-20,Deb Ito,deb_ito@example.org,(816) 555-0127,2026-09-20,morning,2,Phone,"Samsung phone, black, cracked back. please help",
+LR-88421,2026-09-20,Wes Campbell,wescampbell@mail.example,(402) 555-0196,2026-09-20,rush hour,route 7 bus,Other,Black travel mug,"Searched 9/20, no match."
+LR-88422,2026-09-20,Hector Wright,hectorwright@example.org,(801) 555-0167,2026-09-15,late night,the 11,Wallet/Purse,"Brown card holder, has my ID and cards","Searched 9/20, no match."
+LR-88423,2026-09-20,Gabriel Patel,gabriel_patel@inbox.example.net,(816) 555-0192,2026-09-19,rush hour,red line,Other,My prescription bottle. please help,"Searched 9/20, no match."
+LR-88424,2026-09-20,Brianna Collins,briannacollins4@mail.example,(801) 555-0180,2026-09-17,around 5:30pm,36 bus,Keys,Chevrolet keys - gym tag,No match. Rider emailed.
+LR-88425,2026-09-20,Keisha Cooper,keishacooper@example.com,(702) 555-0142,2026-09-17,around noon,Red line train,Clothing,Lost my beige sun hat on the bus,
+LR-88426,2026-09-20,Brianna Pruett,brianna.pruett@inbox.example.net,(405) 555-0156,2026-09-20,around 8am,blue line train,ID/Cards,Bank card - please call me,No match. Rider emailed.
+LR-88427,2026-09-20,Wendy Johnson,wendy_johnson@example.com,(512) 555-0187,2026-09-18,afternoon,Route 26,Other,My sunglasses in black,
+LR-88428,2026-09-20,Chad Bailey,chadbailey@mail.example,(704) 555-0123,2026-09-20,afternoon,light rail,Wallet/Purse,"Brown bifold wallet, has my id and cards. thanks",No match. Rider emailed.
+LR-88429,2026-09-20,Ashley Evans,ashley.evans57@example.com,(512) 555-0139,2026-09-20,,Route 36,ID/Cards,My transit pass card,"Searched 9/20, no match."
+LR-88430,2026-09-20,Erin King,erin.king@mail.example,(405) 555-0126,2026-09-15,,10 bus,Other,My walking cane,
+LR-88431,2026-09-20,Linda Evans,linda_evans@inbox.example.net,(414) 555-0105,2026-09-18,around noon,30,Electronics,Portable power bank,No match. Rider emailed.
+LR-88432,2026-09-20,Hector Cooper,hectorcooper@example.com,(317) 555-0127,2026-09-17,afternoon,blue line train,Wallet/Purse,Brown bifold wallet with my license,No match. Rider emailed.
+LR-88433,2026-09-20,Ahmed Fischer,ahmed_fischer@example.com,(608) 555-0196,2026-09-20,,Route 37,Bag,"My laptop bag!! it's dark grey, has papers. Really need this back",
+LR-88434,2026-09-20,Tamika Kowalski,tamika.kowalski96@example.org,(317) 555-0170,2026-09-18,rush hour,the 16,Other,My sunglasses in tortoiseshell,
+LR-88435,2026-09-20,Ahmed Robinson,ahmed.robinson@inbox.example.net,(402) 555-0151,2026-09-19,around noon,6 bus,Phone,"IPhone lock screen photo of a beach, white",No match. Rider emailed.
+LR-88436,2026-09-20,Heather Kowalski,heather.kowalski@example.com,(615) 555-0152,2026-09-19,rush hour,Route 3,Other,Blue hydro flask water bottle,No match. Rider emailed.
+LR-88437,2026-09-21,Kevin Nelson,kevin.nelson@example.org,(919) 555-0111,2026-09-20,,27,Wallet/Purse,Brown Fossil bifold wallet with my license,No match. Rider emailed.
+LR-88438,2026-09-21,Marlon Reed,marlon_reed@example.org,(702) 555-0155,2026-09-16,late night,route 14 bus,Phone,My pink iphone with a lock screen photo of a child,
+LR-88439,2026-09-21,Andre Mensah,andre_mensah92@inbox.example.net,(405) 555-0109,2026-09-21,morning,the 21,Clothing,Lost my beige sun hat on the bus!!,
+LR-88440,2026-09-21,Bonnie Novak,bonnie.novak73@example.org,(216) 555-0142,2026-09-16,around 8am,13 bus,Other,"Tortoiseshell sunglasses, no case","Searched 9/21, no match."
+LR-88441,2026-09-21,Shelby Scott,shelbyscott@example.com,(720) 555-0138,2026-09-19,morning,19,Other,Lunch box with kids design,
+LR-88442,2026-09-21,Patricia Bell,patricia_bell68@example.org,(720) 555-0169,2026-09-18,rush hour,the 4,ID/Cards,"Lost bank card, name on it is mine","Searched 9/21, no match."
+LR-88443,2026-09-21,Heather Patel,heather_patel44@example.org,(512) 555-0151,2026-09-21,morning,26,Other,"Insulated lunch bag with a cartoon cat on it, has a tupperware inside","Searched 9/21, no match."
+LR-88444,2026-09-21,Tyler Cook,tylercook52@example.com,(503) 555-0109,2026-09-20,not sure,route 38 bus,Keys,Set of keys (carabiner),No match. Rider emailed.
+LR-88445,2026-09-21,Raj Cox,rajcox@mail.example,(414) 555-0162,2026-09-21,around 5:30pm,route 18 bus,Phone,"Apple phone, blue, lock screen photo of a beach",No match. Rider emailed.
+LR-88446,2026-09-21,Linda Nelson,linda_nelson40@mail.example,(312) 555-0140,2026-09-21,rush hour,27 bus,Other,Red Contigo travel mug,
+LR-88447,2026-09-21,Yolanda Bailey,yolanda.bailey@mail.example,(414) 555-0107,2026-09-21,around noon,the 27,Wallet/Purse,"Black bifold wallet, has my ID and cards",
+LR-88448,2026-09-21,Tiffany Stewart,tiffanystewart@example.com,(216) 555-0149,2026-09-18,around 8am,the 35,Keys,Ford keys - lanyard,
+LR-88449,2026-09-21,Patricia Evans,patriciaevans@example.com,(702) 555-0193,2026-09-20,around 5:30pm,Blue Line,Phone,"Samsung phone, grey, cracked back","Searched 9/21, no match."
+LR-88450,2026-09-21,Brianna Becker,briannabecker35@inbox.example.net,(512) 555-0180,2026-09-20,not sure,33 bus,Keys,Keys - Eiffel Tower keychain,"Searched 9/21, no match."
+LR-88451,2026-09-21,Wes Williams,wes_williams10@inbox.example.net,(913) 555-0136,2026-09-18,evening,the 36,Bag,Black Nike gym bag with sneakers inside,
+LR-88452,2026-09-21,Tiffany Smith,tiffanysmith@mail.example,(414) 555-0129,2026-09-21,around noon,Route 38,Keys,"Car key fob with keys, gym tag",
+LR-88453,2026-09-21,Travis Becker,travis_becker98@example.com,(402) 555-0112,2026-09-21,evening,2,Electronics,Samsung Galaxy Tab tablet rugged kids case,
+LR-88454,2026-09-21,Duane Robinson,duanerobinson61@inbox.example.net,(312) 555-0163,2026-09-20,late night,not sure which bus,Other,My kid's action figure (red),
+LR-88455,2026-09-21,Lorraine Kim,lorraine.kim@example.org,(919) 555-0199,2026-09-19,afternoon,light rail,Phone,My dark grey flip phone with a worn,"Searched 9/21, no match."
+LR-88456,2026-09-21,Samuel Cooper,samuel.cooper@example.org,(614) 555-0157,2026-09-19,late night,the 21,Keys,"Car key fob with keys, carabiner","Searched 9/21, no match."
+LR-88457,2026-09-21,Bonnie Perez,bonnie.perez@example.com,(470) 555-0103,2026-09-20,,16 bus,Other,"Brown sunglasses, aviator",
+LR-88458,2026-09-21,Keisha Becker,keishabecker@example.com,(317) 555-0175,2026-09-20,morning,route 17 bus,Electronics,Blue handheld fan,"Searched 9/21, no match."
+LR-88459,2026-09-21,Jennifer Wright,jenniferwright@example.org,(216) 555-0126,2026-09-16,around 8am,red line,Wallet/Purse,Tan Coach purse with my license,
+LR-88460,2026-09-21,Tammy Rourke,tammy.rourke@example.com,(470) 555-0143,2026-09-17,around 8:30am,Route 14,Electronics,"Following up - silver MacBook Air, balloon sticker, route 14 morning of 9/17. Has anyone handed it in?","Searched Route 14 items 9/21, no match."
+LR-88461,2026-09-21,Linda Jackson,linda.jackson@mail.example,(312) 555-0132,2026-09-21,evening,the 19,Other,Red Totes umbrella,
+LR-88462,2026-09-22,Samuel Davis,samueldavis10@inbox.example.net,(720) 555-0151,2026-09-22,around 5:30pm,red line,Bag,Blue nike backpack with gym clothes inside,
+LR-88463,2026-09-22,Nicole Howard,nicole_howard@mail.example,(512) 555-0157,2026-09-22,,Central Station,Keys,Set of keys (lanyard),
+LR-88464,2026-09-22,Linda Bailey,lindabailey@example.org,(470) 555-0197,2026-09-17,rush hour,Red Line,Other,Water bottle with straw lid,
+LR-88465,2026-09-22,Isaac Kowalski,isaac.kowalski@example.com,(816) 555-0107,2026-09-22,afternoon,red line,ID/Cards,My driver's license,
+LR-88466,2026-09-22,Ashley Hill,ashleyhill@inbox.example.net,(512) 555-0119,2026-09-22,morning,Red Line train,Other,My grandfather's wooden cane - the handle is a carved duck head,"Searched 9/22, no match."
+LR-88467,2026-09-22,Dale Adams,dale_adams@example.org,(470) 555-0111,2026-09-22,around noon,the 10,Wallet/Purse,Tan purse with my license,
+LR-88468,2026-09-22,Gabriel Green,gabrielgreen@example.org,(414) 555-0173,2026-09-22,not sure,route 19 bus,Bag,Red herschel backpack with pencil case inside. Reward offered,
+LR-88469,2026-09-22,Ethan King,ethan.king53@example.org,(512) 555-0137,2026-09-22,late night,red line,Phone,"Google Pixel phone no case, green","Searched 9/22, no match."
+LR-88470,2026-09-22,Chad Bailey,chad_bailey@example.org,(608) 555-0164,2026-09-19,afternoon,a bus downtown,Other,"Tortoiseshell sunglasses, in soft pouch",
+LR-88471,2026-09-22,Derek Anderson,derekanderson@example.org,(614) 555-0118,2026-09-19,around 8am,blue line train,Electronics,"Apple AirPods case, white",No match. Rider emailed.
+LR-88472,2026-09-22,Ana Bell,ana_bell@example.com,(216) 555-0190,2026-09-22,afternoon,blue line train,Phone,My pink iphone with a lock screen photo of a beach,
+LR-88473,2026-09-22,Gina Campbell,ginacampbell@inbox.example.net,(608) 555-0123,2026-09-22,morning,16 bus,Other,"Casio watch, gold, leather strap","Searched 9/22, no match."
+LR-88474,2026-09-22,Ruben Rogers,ruben_rogers@mail.example,(312) 555-0106,2026-09-17,afternoon,the 18,Other,"Red umbrella, polka dot",No match. Rider emailed.
+LR-88475,2026-09-22,Shawn Rivera,shawnrivera@example.com,(216) 555-0143,2026-09-20,around 5:30pm,blue line train,Keys,Set of keys (mailbox key),"Searched 9/22, no match."
+LR-88476,2026-09-22,Kevin Brooks,kbrooks22@example.org,(314) 555-0187,2026-09-21,,a bus downtown,Electronics,apple laptop silver,
+LR-88477,2026-09-22,Brianna Bailey,briannabailey@example.org,(615) 555-0148,2026-09-17,around 5:30pm,10 bus,Other,Water bottle with stickers,"Searched 9/22, no match."
+LR-88478,2026-09-22,Jamal Ramirez,jamal.ramirez@mail.example,(312) 555-0118,2026-09-20,around 8am,the 27,Keys,Set of keys (carabiner),"Searched 9/22, no match."
+LR-88479,2026-09-22,Becky Novak,becky_novak@example.com,(414) 555-0172,2026-09-17,rush hour,route 30 bus,Other,My prescription glasses in black. Really need this back,No match. Rider emailed.
+LR-88480,2026-09-22,Patricia Perez,patricia_perez@example.com,(402) 555-0118,2026-09-22,late night,Route 17,Electronics,"Sony over-ear headphones, black","Searched 9/22, no match."
+LR-88481,2026-09-22,Samuel Garcia,samuel_garcia72@mail.example,(614) 555-0168,2026-09-17,not sure,the 2,Other,Travel mug with,
+LR-88482,2026-09-22,Corey Rivera,coreyrivera@example.com,(470) 555-0180,2026-09-21,late night,light rail,Electronics,"Apple AirPods case, white","Searched 9/22, no match."
+LR-88483,2026-09-22,Marlon Morris,marlonmorris@example.com,(512) 555-0141,2026-09-21,around noon,Route 31,Clothing,Hoodie in black,
+LR-88484,2026-09-22,Lauren Scott,lauren_scott67@example.com,(615) 555-0171,2026-09-22,,the 2,Other,My prescription bottle. thanks,
+LR-88485,2026-09-23,Kim Johnson,kim_johnson60@example.com,(702) 555-0144,2026-09-23,not sure,the 28,Other,Grey umbrella,
+LR-88486,2026-09-23,Marlon Mensah,marlon.mensah@inbox.example.net,(216) 555-0107,2026-09-23,,red line,Other,Blue skateboard,No match. Rider emailed.
+LR-88487,2026-09-23,James Brown,james_brown@example.org,(919) 555-0108,2026-09-21,around 5:30pm,the 37,Other,Yoga mat,"Searched 9/23, no match."
+LR-88488,2026-09-23,Robert Harris,robert_harris@mail.example,(702) 555-0153,2026-09-23,around 5:30pm,13,Other,My kid's action figure (red),"Searched 9/23, no match."
+LR-88489,2026-09-23,Tiffany Wilson,tiffany.wilson64@example.com,(720) 555-0158,2026-09-23,rush hour,Red Line,Bag,"My beach bag!! it's blue, has sunscreen",
+LR-88490,2026-09-23,Tonya Fischer,tonya.fischer25@example.com,(470) 555-0140,2026-09-22,around 8am,29 bus,Electronics,Over-ear headphones no case,
+LR-88491,2026-09-23,Noah Stewart,noah_stewart@inbox.example.net,(216) 555-0183,2026-09-21,evening,the 3,Clothing,Lost my dark grey scarf on the bus,
+LR-88492,2026-09-23,Brenda Bell,brenda_bell19@example.com,(615) 555-0123,2026-09-21,late night,light rail,Bag,"Black backpack, torn strap. Reward offered",
+LR-88493,2026-09-23,Brian Young,brian_young@mail.example,(512) 555-0185,2026-09-22,morning,3,Other,,"Searched 9/23, no match."
+LR-88494,2026-09-23,Bonnie Torres,bonnie_torres@example.com,(913) 555-0155,2026-09-22,not sure,the 28,Keys,"Key on a lanyard, university lanyard",
+LR-88495,2026-09-23,Jamal Robinson,jamal_robinson@example.org,(503) 555-0115,2026-09-21,around noon,route 23 bus,Bag,"My beach bag!! it's blue, has sunscreen",
+LR-88496,2026-09-23,Deb Dunbar,debdunbar@inbox.example.net,(702) 555-0126,2026-09-18,evening,Central Station,Electronics,Wireless earbuds in charging case,"Searched 9/23, no match."
+LR-88497,2026-09-23,Lauren Edwards,lauren_edwards@example.com,(702) 555-0176,2026-09-23,around 5:30pm,Route 29,Other,Book - Bible,
+LR-88498,2026-09-23,Jamal Mitchell,jamal_mitchell7@inbox.example.net,(405) 555-0135,2026-09-23,evening,route 9 bus,Wallet/Purse,"Tan bifold wallet, has my ID and cards",
+LR-88499,2026-09-23,Victor Scott,victor_scott@mail.example,(414) 555-0139,2026-09-23,rush hour,route 9 bus,Electronics,Airpods case one earbud missing,No match. Rider emailed.
+LR-88500,2026-09-23,Chad Murphy,chad.murphy@example.org,(312) 555-0114,2026-09-22,,Route 38,Electronics,"Apple AirPods case, white","Searched 9/23, no match."
+LR-88501,2026-09-23,Tamika Wright,tamika.wright@mail.example,(720) 555-0156,2026-09-20,evening,5,Electronics,Silver Samsung Galaxy Tab tablet,"Searched 9/23, no match."
+LR-88502,2026-09-23,Vince Allen,vinceallen@example.com,(405) 555-0198,2026-09-20,around 5:30pm,Route 36,Bag,"My shopping bag!! it's white, has school supplies",
+LR-88503,2026-09-23,Dale Cooper,dale.cooper83@inbox.example.net,(615) 555-0192,2026-09-22,rush hour,1 bus,Phone,My blue Samsung Galaxy phone with a wallet case,
+LR-88504,2026-09-23,Noah Bell,noahbell97@example.org,(913) 555-0143,2026-09-20,not sure,27 bus,Bag,"Navy gym bag, shoulder strap","Searched 9/23, no match."
+LR-88505,2026-09-24,Dale King,daleking@mail.example,(913) 555-0157,2026-09-21,evening,Red line train,ID/Cards,Bank card - please call me,
+LR-88506,2026-09-24,Michael Morris,michael_morris92@mail.example,(704) 555-0125,2026-09-19,around 8am,Route 26,Wallet/Purse,"Brown bifold wallet, has my ID and cards",
+LR-88507,2026-09-24,Kevin Morgan,kevinmorgan@example.com,(801) 555-0113,2026-09-19,,route 7 bus,Other,Black Starbucks travel mug. Reward offered,"Searched 9/24, no match."
+LR-88508,2026-09-24,Anthony Rivera,anthonyrivera@example.com,(608) 555-0127,2026-09-24,evening,Red Line,Phone,Black iPhone 13 in a clear case with a sunflower sticker on the back,"Searched 9/24, no match."
+LR-88509,2026-09-24,Megan Ramirez,meganramirez@example.org,(512) 555-0165,2026-09-22,morning,18,Other,"Casio watch, gold, metal band",
+LR-88510,2026-09-24,Linda Perez,linda.perez@example.org,(608) 555-0170,2026-09-24,late night,15 bus,Phone,"Flip phone prepaid, red",
+LR-88511,2026-09-24,Brianna Martinez,brianna.martinez@mail.example,(402) 555-0152,2026-09-19,afternoon,the 10,Bag,"Black backpack, torn strap",
+LR-88512,2026-09-24,Shawn Torres,shawn.torres99@example.org,(405) 555-0166,2026-09-19,afternoon,5,Other,"Tortoiseshell prescription glasses, wire frames",
+LR-88513,2026-09-24,Michael Clark,michael.clark@example.org,(702) 555-0133,2026-09-22,late night,31 bus,Bag,Brown shopping bag with shoes inside,
+LR-88514,2026-09-24,Wes Torres,westorres35@mail.example,(720) 555-0105,2026-09-21,afternoon,14,Phone,"Iphone lock screen photo of a child, pink","Searched 9/24, no match."
+LR-88515,2026-09-24,Isaac Mensah,isaacmensah26@mail.example,(216) 555-0199,2026-09-19,around noon,the 37,Wallet/Purse,"Card holder, brown, slim","Searched 9/24, no match."
+LR-88516,2026-09-24,Raj Fischer,rajfischer@mail.example,(614) 555-0193,2026-09-19,around 5:30pm,34,Phone,"Samsung Galaxy phone wallet case, black",
+LR-88517,2026-09-24,Ana Novak,ana_novak@inbox.example.net,(614) 555-0161,2026-09-24,around 8am,Route 34,Bag,"Dark grey gym bag, shoulder strap",
+LR-88518,2026-09-24,Derek Clark,derek_clark7@inbox.example.net,(816) 555-0185,2026-09-21,not sure,the 4,Bag,"Yellow beach bag, straw","Searched 9/24, no match."
+LR-88519,2026-09-24,Samuel Cooper,samuelcooper44@mail.example,(216) 555-0118,2026-09-19,around 8am,route 33 bus,Bag,White Macy's shopping bag with school supplies inside,"Searched 9/24, no match."
+LR-88520,2026-09-24,Brianna White,brianna_white@mail.example,(816) 555-0156,2026-09-19,not sure,light rail,Phone,"IPhone lock screen photo of a child, blue","Searched 9/24, no match."
+LR-88521,2026-09-24,Heather Johnson,heather.johnson@inbox.example.net,(503) 555-0171,2026-09-24,morning,21 bus,Electronics,AirPods case one earbud missing,"Searched 9/24, no match."
+LR-88522,2026-09-24,Tammy Rourke,tammy.rourke@example.com,(470) 555-0143,2026-09-17,around 8:30am,Route 14,Electronics,"Third form. MacBook Air, silver, sticker of a hot air balloon. Route 14, Sep 17 morning. I need this for work","Searched 9/24, no match."
+LR-88523,2026-09-24,Shawn Wright,shawn_wright63@mail.example,(402) 555-0101,2026-09-24,late night,Central Station,Clothing,"Navy Gap sweater, crew neck. Really need this back",
+LR-88524,2026-09-24,Megan Pruett,meganpruett@inbox.example.net,(913) 555-0132,2026-09-24,,Route 32,Clothing,"Navy sun hat, chin strap","Searched 9/24, no match."
+LR-88525,2026-09-24,Erin Kim,erin.kim@example.com,(608) 555-0177,2026-09-23,morning,18 bus,ID/Cards,My transit pass card,
+LR-88526,2026-09-25,Diego Dunbar,diego.dunbar@example.org,(608) 555-0181,2026-09-23,around 8am,the 5,Clothing,Gap sweater in green,"Searched 9/25, no match."
+LR-88527,2026-09-25,Jamal Torres,jamal_torres@example.org,(704) 555-0154,2026-09-25,afternoon,Route 13,Clothing,Nike jacket in grey!!,"Searched 9/25, no match."
+LR-88528,2026-09-25,Jose Mitchell,josemitchell@inbox.example.net,(608) 555-0180,2026-09-25,rush hour,the 26,Keys,Keys - bottle opener keychain,
+LR-88529,2026-09-25,Lauren Ward,lauren.ward25@example.org,(913) 555-0156,2026-09-24,around 8am,blue line train,Clothing,Lost my grey hoodie on the bus,No match. Rider emailed.
+LR-88530,2026-09-25,Travis Phillips,travis_phillips@mail.example,(608) 555-0119,2026-09-22,not sure,light rail,Other,Yellow doll,
+LR-88531,2026-09-25,Jose Nguyen,josenguyen33@example.org,(608) 555-0150,2026-09-24,around noon,Route 9,Electronics,Black Kindle e-reader,"Searched 9/25, no match."
+LR-88532,2026-09-25,Carlos Dunbar,carlos.dunbar@example.org,(503) 555-0108,2026-09-23,,"bus or train, not sure",Electronics,White Belkin portable power bank. Really need this back,
+LR-88533,2026-09-25,Nicole Murphy,nicolemurphy@example.org,(801) 555-0116,2026-09-22,evening,the 25,Wallet/Purse,"Brown bifold wallet, has my ID and cards",
+LR-88534,2026-09-25,Trevor Novak,trevor.novak@inbox.example.net,(615) 555-0133,2026-09-22,evening,light rail,Other,"Navy umbrella, plaid",No match. Rider emailed.
+LR-88535,2026-09-25,Bonnie Stewart,bonniestewart@inbox.example.net,(414) 555-0111,2026-09-25,not sure,21,Phone,"Phone, grey, worn. please help",
+LR-88536,2026-09-25,Nadine Murphy,nadine_murphy23@inbox.example.net,(317) 555-0114,2026-09-25,evening,27 bus,Other,Gray umbrella,"Searched 9/25, no match."
+LR-88537,2026-09-25,Rodney Murphy,rodney_murphy@example.com,(913) 555-0175,2026-09-25,around 5:30pm,the 20,ID/Cards,"Lost bank card, name on it is mine","Searched 9/25, no match."
+LR-88538,2026-09-25,Victor Parker,victor.parker30@inbox.example.net,(312) 555-0182,2026-09-25,not sure,Red Line,Other,A Bible,"Searched 9/25, no match."
+LR-88539,2026-09-25,Jennifer Anderson,jennifer.anderson@inbox.example.net,(405) 555-0169,2026-09-25,around 8am,route 9 bus,Keys,Keys - eiffel tower keychain,
+LR-88540,2026-09-25,Michael Cook,michael_cook@example.com,(615) 555-0168,2026-09-23,not sure,route 28 bus,Clothing,Lost my green jacket on the bus,
+LR-88541,2026-09-25,Trevor Cooper,trevor_cooper80@example.org,(312) 555-0104,2026-09-25,late night,route 30 bus,Bag,White Target shopping bag with shoes inside,"Searched 9/25, no match."
+LR-88542,2026-09-25,Diego Johnson,diego.johnson32@mail.example,(402) 555-0173,2026-09-25,evening,17 bus,Bag,"My gym bag!! it's red, has water bottle","Searched 9/25, no match."
+LR-88543,2026-09-25,Becky Wilson,becky.wilson@mail.example,(216) 555-0103,2026-09-24,,red line,Other,White bear,
+LR-88544,2026-09-25,Gina Evans,gina.evans@example.com,(216) 555-0121,2026-09-24,morning,the 5,Electronics,"Apple AirPods case, white",
+LR-88545,2026-09-25,Heather Murphy,heather.murphy@inbox.example.net,(503) 555-0141,2026-09-20,not sure,Route 16,Clothing,Adidas jacket in red,No match. Rider emailed.
+LR-88546,2026-09-25,Jennifer Pruett,jennifer_pruett9@inbox.example.net,(913) 555-0104,2026-09-22,around noon,37,ID/Cards,"Lost state ID card, name on it is mine",
+LR-88547,2026-09-25,Linda Kim,linda.kim@inbox.example.net,(801) 555-0151,2026-09-24,morning,38,Other,A spiral. Really need this back,
+LR-88548,2026-09-25,Michael Lopez,michael_lopez94@mail.example,(704) 555-0150,2026-09-25,around 8am,27 bus,Bag,"Blue backpack, laptop sleeve",
+LR-88549,2026-09-25,Wendy Carter,wendy.carter17@mail.example,(614) 555-0125,2026-09-25,around 8am,29 bus,Keys,"Car key fob with keys, house keys attached",
+LR-88550,2026-09-26,Ruben King,ruben.king27@inbox.example.net,(704) 555-0108,2026-09-26,morning,38 bus,Bag,"My backpack!! it's gray, has textbook",No match. Rider emailed.
+LR-88551,2026-09-26,Omar Hill,omar_hill43@inbox.example.net,(216) 555-0111,2026-09-25,,the 14,Bag,"My shopping bag!! it's white, has toiletries. please help","Searched 9/26, no match."
+LR-88552,2026-09-26,Tiffany Phillips,tiffany.phillips@inbox.example.net,(402) 555-0160,2026-09-25,morning,16 bus,Other,Black packit lunch box,
+LR-88553,2026-09-26,Omar Morgan,omar.morgan@example.com,(503) 555-0187,2026-09-26,rush hour,32 bus,Phone,"IPhone case with card slot, pink",
+LR-88554,2026-09-26,Andre Lewis,alewis.88@mail.example,(314) 555-0187,2026-09-25,,a bus downtown,Electronics,airpods,
+LR-88555,2026-09-26,Robert Sanchez,robert.sanchez@example.org,(414) 555-0159,2026-09-26,around 5:30pm,Red Line,ID/Cards,My transit pass card,
+LR-88556,2026-09-26,Wendy Ito,wendyito@example.com,(405) 555-0176,2026-09-25,rush hour,Route 36,Other,. Really need this back,
+LR-88557,2026-09-26,Brianna Anderson,briannaanderson@example.org,(919) 555-0144,2026-09-21,evening,Red line train,Other,My prescription bottle,
+LR-88558,2026-09-26,Trevor Howard,trevor.howard88@example.com,(702) 555-0123,2026-09-24,late night,36 bus,ID/Cards,"Lost state ID card, name on it is mine",
+LR-88559,2026-09-26,Ruben Patel,ruben_patel45@example.com,(816) 555-0135,2026-09-23,around 5:30pm,the 18,Electronics,"Beats over-ear headphones, pink. please help",
+LR-88560,2026-09-26,Bonnie Kowalski,bonniekowalski27@example.com,(614) 555-0126,2026-09-26,around 8am,Route 10,Other,Navy Totes umbrella,No match. Rider emailed.
+LR-88561,2026-09-26,Paul Clark,paulclark@inbox.example.net,(919) 555-0115,2026-09-26,late night,Central Station,Phone,My green google pixel phone with a fabric case,"Searched 9/26, no match."
+LR-88562,2026-09-26,Keisha Parker,keishaparker28@inbox.example.net,(312) 555-0120,2026-09-25,,light rail,Keys,Set of keys (2 keys),
+LR-88563,2026-09-26,Rick Ward,rickward@example.org,(312) 555-0181,2026-09-26,,5,Other,Orange basketball,
+LR-88564,2026-09-26,Heather Nguyen,heather.nguyen@mail.example,(702) 555-0132,2026-09-26,,Red Line,Clothing,"Dark blue Adidas jacket, light windbreaker",
+LR-88565,2026-09-26,Trevor Novak,trevor_novak2@example.org,(512) 555-0115,2026-09-25,not sure,10 bus,Other,Green umbrella,
+LR-88566,2026-09-26,Kim Williams,kimwilliams@example.org,(512) 555-0148,2026-09-26,late night,Route 16,Other,"Tortoiseshell sunglasses, in soft pouch","Searched 9/26, no match."
+LR-88567,2026-09-27,Omar Lewis,omarlewis@mail.example,(216) 555-0196,2026-09-27,morning,the 5,Bag,Dark blue gym bag with water bottle inside. thanks,
+LR-88568,2026-09-27,Ashley White,ashley_white@example.com,(615) 555-0126,2026-09-27,morning,route 35 bus,Electronics,Kindle e-reader no cover,
+LR-88569,2026-09-27,Derek Collins,derek_collins29@mail.example,(614) 555-0181,2026-09-27,around 8am,the 22,Clothing,"Grey uniqlo jacket, size l. Reward offered",No match. Rider emailed.
+LR-88570,2026-09-27,Omar Sanchez,omarsanchez@example.org,(414) 555-0198,2026-09-22,afternoon,the 38,Other,My kid's bear (brown),
+LR-88571,2026-09-27,Brian Dunbar,briandunbar@example.org,(317) 555-0131,2026-09-25,late night,10 bus,Other,My sunglasses in black,"Searched 9/27, no match."
+LR-88572,2026-09-27,Kim Johnson,kim_johnson28@inbox.example.net,(405) 555-0154,2026-09-22,around 8am,route 24 bus,Clothing,Lost my dark blue baseball cap on the bus. please help,
+LR-88573,2026-09-27,Brianna Morris,brianna.morris36@inbox.example.net,(402) 555-0164,2026-09-25,evening,Blue Line,Other,Small succulent,
+LR-88574,2026-09-27,David King,david.king@example.com,(512) 555-0102,2026-09-27,morning,16,Keys,Set of keys (carabiner),No match. Rider emailed.
+LR-88575,2026-09-27,Deb Collins,deb_collins@example.com,(704) 555-0124,2026-09-27,evening,23 bus,Clothing,J.Crew sweater in maroon,
+LR-88576,2026-09-27,Gabriel Becker,gabrielbecker36@inbox.example.net,(913) 555-0128,2026-09-27,around noon,9,Electronics,Gray Amazon Fire tablet,
+LR-88577,2026-09-27,Marlon Wright,marlonwright@mail.example,(405) 555-0144,2026-09-26,rush hour,14,Keys,Set of keys (gym tag),
+LR-88578,2026-09-27,Jennifer Howard,jennifer.howard@example.org,(608) 555-0158,2026-09-24,rush hour,24 bus,Other,My sunglasses in tortoiseshell,"Searched 9/27, no match."
+LR-88579,2026-09-27,Robert Wilson,robert.wilson67@mail.example,(913) 555-0195,2026-09-27,evening,a bus downtown,Bag,"Black laptop bag, shoulder strap",
+LR-88580,2026-09-27,Tamika Turner,tamika_turner@example.com,(317) 555-0106,2026-09-22,rush hour,14,Clothing,L.l.bean flannel shirt in blue,"Searched 9/27, no match."
+LR-88581,2026-09-27,James Scott,james_scott@mail.example,(405) 555-0117,2026-09-24,not sure,30 bus,Electronics,Kobo e-reader no cover. Reward offered,
+LR-88582,2026-09-27,Ahmed Patel,ahmed.patel@mail.example,(614) 555-0154,2026-09-24,rush hour,route 38 bus,Clothing,Champion hoodie in black,
+LR-88583,2026-09-27,David Reed,david_reed@inbox.example.net,(414) 555-0180,2026-09-22,late night,Red Line,Other,My kid's dinosaur (white). Reward offered,"Searched 9/27, no match."
+LR-88584,2026-09-27,Corey Nguyen,coreynguyen@example.org,(720) 555-0124,2026-09-24,morning,23 bus,Phone,"Samsung Galaxy phone cracked back, green!!",
+LR-88585,2026-09-27,James Morgan,james.morgan@example.org,(503) 555-0111,2026-09-27,not sure,Red line train,Other,Book - paperback novel!!,No match. Rider emailed.
+LR-88586,2026-09-28,Glen Parker,glen.parker@example.com,(405) 555-0164,2026-09-28,,37,Other,A school assignments,
+LR-88587,2026-09-28,Deb Ito,debito@mail.example,(816) 555-0182,2026-09-28,around noon,Red Line,Clothing,Baseball cap in white,"Searched 9/28, no match."
+LR-88588,2026-09-28,Keisha Mensah,keishamensah23@mail.example,(503) 555-0175,2026-09-23,,route 11 bus,Keys,Set of keys (gym tag)!!,No match. Rider emailed.
+LR-88589,2026-09-28,Rosa Harris,rosa_harris@example.com,(402) 555-0109,2026-09-28,,Route 8,Electronics,Belkin portable power bank,
+LR-88590,2026-09-28,Tiffany Scott,tiffany_scott@example.org,(614) 555-0187,2026-09-27,late night,Red line train,Clothing,Jacket in dark blue,"Searched 9/28, no match."
+LR-88591,2026-09-28,Tonya Ramirez,tonyaramirez@example.org,(615) 555-0106,2026-09-25,late night,light rail,Other,Purple Nalgene water bottle,
+LR-88592,2026-09-28,Isaac Morris,isaac.morris@example.org,(317) 555-0148,2026-09-28,,Route 3,Electronics,"Samsung wireless earbuds, blue",
+LR-88593,2026-09-28,Tyler Clark,tyler.clark49@inbox.example.net,(317) 555-0133,2026-09-28,around 8am,the 6,Wallet/Purse,Tan Coach bifold wallet with my license,"Searched 9/28, no match."
+LR-88594,2026-09-28,Travis Scott,travisscott@mail.example,(919) 555-0101,2026-09-26,not sure,blue line train,Other,My kid's dog (gray),
+LR-88595,2026-09-28,Wes Ward,wesward@mail.example,(704) 555-0155,2026-09-25,around 5:30pm,11 bus,Other,Purple Nalgene water bottle,
+LR-88596,2026-09-28,Lorraine Rogers,lorrainerogers@example.com,(702) 555-0116,2026-09-28,,the 21,ID/Cards,"Lost student ID card, name on it is mine. Really need this back",No match. Rider emailed.
+LR-88597,2026-09-28,Corey Kim,coreykim@mail.example,(919) 555-0164,2026-09-23,afternoon,Route 33,Electronics,Wireless earbuds in charging case,"Searched 9/28, no match."
+LR-88598,2026-09-28,Tammy Rourke,tammy.rourke@example.com,(470) 555-0143,2026-09-17,around 8:30am,Route 14,Electronics,4th time submitting. Silver MacBook Air lost on the 14 on Sep 17. Please call me,
+LR-88599,2026-09-28,Tonya Morgan,tonyamorgan@example.org,(405) 555-0160,2026-09-28,around 5:30pm,the 4,Other,Blue yeti water bottle,No match. Rider emailed.
+LR-88600,2026-09-28,Diego Pruett,diego_pruett@mail.example,(801) 555-0126,2026-09-26,afternoon,route 10 bus,Other,Black watch,"Searched 9/28, no match."
+LR-88601,2026-09-28,Jennifer Pruett,jennifer.pruett@inbox.example.net,(720) 555-0148,2026-09-28,around 8am,Red line train,Bag,"Grey backpack, laptop sleeve. Reward offered",
+LR-88602,2026-09-28,Marlon Lopez,marlon_lopez38@mail.example,(614) 555-0117,2026-09-25,not sure,route 15 bus,Clothing,Baseball cap in white,
+LR-88603,2026-09-28,Marlon Robinson,marlon_robinson8@mail.example,(720) 555-0181,2026-09-28,around noon,Route 5,Bag,"Blue backpack, water bottle pocket",
+LR-88604,2026-09-28,Anthony Ward,anthony_ward90@example.org,(317) 555-0129,2026-09-28,around 8am,2,Phone,"IPhone lock screen photo of a beach, black",No match. Rider emailed.
+LR-88605,2026-09-28,Gina Novak,gina_novak@inbox.example.net,(816) 555-0162,2026-09-23,around 8am,24 bus,Other,"Green umbrella, golf size","Searched 9/28, no match."
+LR-88606,2026-09-28,Derek Walker,derek.walker86@inbox.example.net,(913) 555-0154,2026-09-28,around 8am,Red Line,ID/Cards,My bank card,
+LR-88607,2026-09-28,Tamika Ward,tamika_ward@example.com,(913) 555-0118,2026-09-23,,the 1,Other,My reading glasses in black. thanks,"Searched 9/28, no match."
+LR-88608,2026-09-29,Ruben Novak,ruben.novak@mail.example,(615) 555-0134,2026-09-28,not sure,Blue Line,Other,Dark grey folding stroller,No match. Rider emailed.
+LR-88609,2026-09-29,Kurt Bailey,kurt.bailey@mail.example,(801) 555-0171,2026-09-29,late night,Route 30,Electronics,Apple iPad tablet no case,
+LR-88610,2026-09-29,Patricia Mensah,patricia_mensah@inbox.example.net,(312) 555-0135,2026-09-28,around noon,37 bus,Electronics,Wireless earbuds in charging case,"Searched 9/29, no match."
+LR-88611,2026-09-29,Lorraine Haddad,lorrainehaddad37@mail.example,(512) 555-0130,2026-09-24,late night,route 18 bus,Bag,Cream tote bag with book inside,"Searched 9/29, no match."
+LR-88612,2026-09-29,Diego Murphy,diego.murphy86@mail.example,(512) 555-0194,2026-09-29,not sure,red line,Other,White water bottle,"Searched 9/29, no match."
+LR-88613,2026-09-29,Nadine Edwards,nadine.edwards52@example.com,(608) 555-0139,2026-09-29,morning,route 6 bus,Other,Red Contigo travel mug. please help,"Searched 9/29, no match."
+LR-88614,2026-09-29,Diego Dunbar,diegodunbar@mail.example,(614) 555-0110,2026-09-28,around 8am,the 13,Wallet/Purse,Brown card holder with my license,"Searched 9/29, no match."
+LR-88615,2026-09-29,Carlos Anderson,carlosanderson78@inbox.example.net,(317) 555-0102,2026-09-29,afternoon,route 28 bus,Bag,Maroon JanSport backpack with pencil case inside,No match. Rider emailed.
+LR-88616,2026-09-29,Ethan Novak,ethan.novak@mail.example,(615) 555-0159,2026-09-28,around noon,route 18 bus,Electronics,Wireless earbuds in charging case,
+LR-88617,2026-09-29,Noah Haddad,noah_haddad96@mail.example,(317) 555-0147,2026-09-26,around 8am,24,Electronics,Wireless earbuds in charging case,No match. Rider emailed.
+LR-88618,2026-09-29,Raj Edwards,raj_edwards72@example.org,(317) 555-0144,2026-09-28,morning,Route 28,Clothing,Lost my red flannel shirt on the bus,"Searched 9/29, no match."
+LR-88619,2026-09-29,Nicole Ito,nicoleito@mail.example,(913) 555-0105,2026-09-27,morning,Route 4,Other,My reading glasses in blue,No match. Rider emailed.
+LR-88620,2026-09-29,Shelby Turner,shelby.turner@mail.example,(405) 555-0187,2026-09-24,late night,route 21 bus,Other,Prescription bottle - need it urgently,"Searched 9/29, no match."
+LR-88621,2026-09-29,Tiffany Cox,tiffany.cox42@inbox.example.net,(470) 555-0105,2026-09-24,around noon,Red Line,Other,Hearing aid - need it urgently. Reward offered,"Searched 9/29, no match."
+LR-88622,2026-09-29,Rick Reed,rickreed63@example.org,(402) 555-0195,2026-09-27,late night,route 35 bus,ID/Cards,"Lost student ID card, name on it is mine",
+LR-88623,2026-09-29,Ruben Carter,rubencarter@example.org,(919) 555-0133,2026-09-27,rush hour,Route 16,Other,"Tortoiseshell sunglasses, aviator","Searched 9/29, no match."
+LR-88624,2026-09-29,Rosa Mitchell,rosamitchell@example.com,(503) 555-0147,2026-09-29,around noon,4 bus,Clothing,Baseball cap in dark grey,"Searched 9/29, no match."
+LR-88625,2026-09-29,Crystal Baker,crystal_baker38@example.org,(317) 555-0146,2026-09-29,around 8am,Route 4,Clothing,"Black New Era baseball cap, team logo. please help",No match. Rider emailed.
+LR-88626,2026-09-29,Hector Perez,hector.perez@example.org,(801) 555-0186,2026-09-27,around 8am,Route 4,Other,"Tortoiseshell prescription glasses, thick frames",
+LR-88627,2026-09-29,Ethan Bailey,ethan.bailey@mail.example,(414) 555-0135,2026-09-29,around 5:30pm,4,Phone,My pink iphone with a black case,"Searched 9/29, no match."
+LR-88628,2026-09-29,Diego Turner,diego.turner@inbox.example.net,(801) 555-0183,2026-09-26,not sure,13 bus,Other,Black travel mug,
+LR-88629,2026-09-29,Yolanda Carter,yolandacarter@example.org,(216) 555-0181,2026-09-28,morning,14,Other,Blue Stanley water bottle,"Searched 9/29, no match."
+LR-88630,2026-09-29,Brian Brown,brianbrown9@mail.example,(216) 555-0192,2026-09-29,around 8am,28,Other,"Red umbrella, golf size. please help","Searched 9/29, no match."
+LR-88631,2026-09-29,Ana Sanchez,anasanchez@example.com,(402) 555-0140,2026-09-27,morning,24,Clothing,Sun hat in tan,No match. Rider emailed.
